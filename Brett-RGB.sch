@@ -49,7 +49,7 @@ U 1 1 573D6787
 P 950 600
 F 0 "SW1" H 1100 710 50  0000 C CNN
 F 1 "SW_PUSH" H 950 520 50  0000 C CNN
-F 2 "mx2a:RomerG" H 950 600 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 950 600 50  0001 C CNN
 F 3 "" H 950 600 50  0000 C CNN
 	1    950  600 
 	1    0    0    -1  
@@ -60,7 +60,7 @@ U 1 1 573D687A
 P 1850 600
 F 0 "SW2" H 2000 710 50  0000 C CNN
 F 1 "SW_PUSH" H 1850 520 50  0000 C CNN
-F 2 "mx2a:RomerG" H 1850 600 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 1850 600 50  0001 C CNN
 F 3 "" H 1850 600 50  0000 C CNN
 	1    1850 600 
 	1    0    0    -1  
@@ -71,7 +71,7 @@ U 1 1 573D68B6
 P 2750 600
 F 0 "SW3" H 2900 710 50  0000 C CNN
 F 1 "SW_PUSH" H 2750 520 50  0000 C CNN
-F 2 "mx2a:RomerG" H 2750 600 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 2750 600 50  0001 C CNN
 F 3 "" H 2750 600 50  0000 C CNN
 	1    2750 600 
 	1    0    0    -1  
@@ -82,7 +82,7 @@ U 1 1 573D6AE2
 P 3650 600
 F 0 "SW4" H 3800 710 50  0000 C CNN
 F 1 "SW_PUSH" H 3650 520 50  0000 C CNN
-F 2 "mx2a:RomerG" H 3650 600 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 3650 600 50  0001 C CNN
 F 3 "" H 3650 600 50  0000 C CNN
 	1    3650 600 
 	1    0    0    -1  
@@ -93,7 +93,7 @@ U 1 1 573D6AE8
 P 4550 600
 F 0 "SW5" H 4700 710 50  0000 C CNN
 F 1 "SW_PUSH" H 4550 520 50  0000 C CNN
-F 2 "mx2a:RomerG" H 4550 600 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 4550 600 50  0001 C CNN
 F 3 "" H 4550 600 50  0000 C CNN
 	1    4550 600 
 	1    0    0    -1  
@@ -104,7 +104,7 @@ U 1 1 573D6AEE
 P 5450 600
 F 0 "SW6" H 5600 710 50  0000 C CNN
 F 1 "SW_PUSH" H 5450 520 50  0000 C CNN
-F 2 "mx2a:RomerG" H 5450 600 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 5450 600 50  0001 C CNN
 F 3 "" H 5450 600 50  0000 C CNN
 	1    5450 600 
 	1    0    0    -1  
@@ -115,7 +115,7 @@ U 1 1 573D6F3E
 P 6350 600
 F 0 "SW7" H 6500 710 50  0000 C CNN
 F 1 "SW_PUSH" H 6350 520 50  0000 C CNN
-F 2 "mx2a:RomerG" H 6350 600 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 6350 600 50  0001 C CNN
 F 3 "" H 6350 600 50  0000 C CNN
 	1    6350 600 
 	-1   0    0    -1  
@@ -126,7 +126,7 @@ U 1 1 573D6F44
 P 7250 600
 F 0 "SW8" H 7400 710 50  0000 C CNN
 F 1 "SW_PUSH" H 7250 520 50  0000 C CNN
-F 2 "mx2a:RomerG" H 7250 600 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 7250 600 50  0001 C CNN
 F 3 "" H 7250 600 50  0000 C CNN
 	1    7250 600 
 	-1   0    0    -1  
@@ -137,7 +137,7 @@ U 1 1 573D6F4A
 P 8150 600
 F 0 "SW9" H 8300 710 50  0000 C CNN
 F 1 "SW_PUSH" H 8150 520 50  0000 C CNN
-F 2 "mx2a:RomerG" H 8150 600 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 8150 600 50  0001 C CNN
 F 3 "" H 8150 600 50  0000 C CNN
 	1    8150 600 
 	-1   0    0    -1  
@@ -148,7 +148,7 @@ U 1 1 573D6F50
 P 9050 600
 F 0 "SW10" H 9200 710 50  0000 C CNN
 F 1 "SW_PUSH" H 9050 520 50  0000 C CNN
-F 2 "mx2a:RomerG" H 9050 600 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 9050 600 50  0001 C CNN
 F 3 "" H 9050 600 50  0000 C CNN
 	1    9050 600 
 	-1   0    0    -1  
@@ -159,7 +159,7 @@ U 1 1 573D6F56
 P 9950 600
 F 0 "SW11" H 10100 710 50  0000 C CNN
 F 1 "SW_PUSH" H 9950 520 50  0000 C CNN
-F 2 "mx2a:RomerG" H 9950 600 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 9950 600 50  0001 C CNN
 F 3 "" H 9950 600 50  0000 C CNN
 	1    9950 600 
 	-1   0    0    -1  
@@ -170,7 +170,7 @@ U 1 1 573D6F5C
 P 10850 600
 F 0 "SW12" H 11000 710 50  0000 C CNN
 F 1 "SW_PUSH" H 10850 520 50  0000 C CNN
-F 2 "mx2a:RomerG" H 10850 600 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 10850 600 50  0001 C CNN
 F 3 "" H 10850 600 50  0000 C CNN
 	1    10850 600 
 	-1   0    0    -1  
@@ -181,7 +181,7 @@ U 1 1 573D759E
 P 950 1000
 F 0 "SW13" H 1100 1110 50  0000 C CNN
 F 1 "SW_PUSH" H 950 920 50  0000 C CNN
-F 2 "mx2a:RomerG" H 950 1000 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 950 1000 50  0001 C CNN
 F 3 "" H 950 1000 50  0000 C CNN
 	1    950  1000
 	1    0    0    -1  
@@ -192,7 +192,7 @@ U 1 1 573D75A4
 P 1850 1000
 F 0 "SW14" H 2000 1110 50  0000 C CNN
 F 1 "SW_PUSH" H 1850 920 50  0000 C CNN
-F 2 "mx2a:RomerG" H 1850 1000 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 1850 1000 50  0001 C CNN
 F 3 "" H 1850 1000 50  0000 C CNN
 	1    1850 1000
 	1    0    0    -1  
@@ -203,7 +203,7 @@ U 1 1 573D75AA
 P 2750 1000
 F 0 "SW15" H 2900 1110 50  0000 C CNN
 F 1 "SW_PUSH" H 2750 920 50  0000 C CNN
-F 2 "mx2a:RomerG" H 2750 1000 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 2750 1000 50  0001 C CNN
 F 3 "" H 2750 1000 50  0000 C CNN
 	1    2750 1000
 	1    0    0    -1  
@@ -214,7 +214,7 @@ U 1 1 573D75B0
 P 3650 1000
 F 0 "SW16" H 3800 1110 50  0000 C CNN
 F 1 "SW_PUSH" H 3650 920 50  0000 C CNN
-F 2 "mx2a:RomerG" H 3650 1000 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 3650 1000 50  0001 C CNN
 F 3 "" H 3650 1000 50  0000 C CNN
 	1    3650 1000
 	1    0    0    -1  
@@ -225,7 +225,7 @@ U 1 1 573D75B6
 P 4550 1000
 F 0 "SW17" H 4700 1110 50  0000 C CNN
 F 1 "SW_PUSH" H 4550 920 50  0000 C CNN
-F 2 "mx2a:RomerG" H 4550 1000 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 4550 1000 50  0001 C CNN
 F 3 "" H 4550 1000 50  0000 C CNN
 	1    4550 1000
 	1    0    0    -1  
@@ -236,7 +236,7 @@ U 1 1 573D75BC
 P 5450 1000
 F 0 "SW18" H 5600 1110 50  0000 C CNN
 F 1 "SW_PUSH" H 5450 920 50  0000 C CNN
-F 2 "mx2a:RomerG" H 5450 1000 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 5450 1000 50  0001 C CNN
 F 3 "" H 5450 1000 50  0000 C CNN
 	1    5450 1000
 	1    0    0    -1  
@@ -247,7 +247,7 @@ U 1 1 573D75C2
 P 6350 1000
 F 0 "SW19" H 6500 1110 50  0000 C CNN
 F 1 "SW_PUSH" H 6350 920 50  0000 C CNN
-F 2 "mx2a:RomerG" H 6350 1000 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 6350 1000 50  0001 C CNN
 F 3 "" H 6350 1000 50  0000 C CNN
 	1    6350 1000
 	-1   0    0    -1  
@@ -258,7 +258,7 @@ U 1 1 573D75C8
 P 7250 1000
 F 0 "SW20" H 7400 1110 50  0000 C CNN
 F 1 "SW_PUSH" H 7250 920 50  0000 C CNN
-F 2 "mx2a:RomerG" H 7250 1000 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 7250 1000 50  0001 C CNN
 F 3 "" H 7250 1000 50  0000 C CNN
 	1    7250 1000
 	-1   0    0    -1  
@@ -269,7 +269,7 @@ U 1 1 573D75CE
 P 8150 1000
 F 0 "SW21" H 8300 1110 50  0000 C CNN
 F 1 "SW_PUSH" H 8150 920 50  0000 C CNN
-F 2 "mx2a:RomerG" H 8150 1000 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 8150 1000 50  0001 C CNN
 F 3 "" H 8150 1000 50  0000 C CNN
 	1    8150 1000
 	-1   0    0    -1  
@@ -280,7 +280,7 @@ U 1 1 573D75D4
 P 9050 1000
 F 0 "SW22" H 9200 1110 50  0000 C CNN
 F 1 "SW_PUSH" H 9050 920 50  0000 C CNN
-F 2 "mx2a:RomerG" H 9050 1000 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 9050 1000 50  0001 C CNN
 F 3 "" H 9050 1000 50  0000 C CNN
 	1    9050 1000
 	-1   0    0    -1  
@@ -291,7 +291,7 @@ U 1 1 573D75DA
 P 9950 1000
 F 0 "SW23" H 10100 1110 50  0000 C CNN
 F 1 "SW_PUSH" H 9950 920 50  0000 C CNN
-F 2 "mx2a:RomerG" H 9950 1000 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 9950 1000 50  0001 C CNN
 F 3 "" H 9950 1000 50  0000 C CNN
 	1    9950 1000
 	-1   0    0    -1  
@@ -302,7 +302,7 @@ U 1 1 573D75E0
 P 10850 1000
 F 0 "SW24" H 11000 1110 50  0000 C CNN
 F 1 "SW_PUSH" H 10850 920 50  0000 C CNN
-F 2 "mx2a:RomerG" H 10850 1000 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 10850 1000 50  0001 C CNN
 F 3 "" H 10850 1000 50  0000 C CNN
 	1    10850 1000
 	-1   0    0    -1  
@@ -313,7 +313,7 @@ U 1 1 573D7C76
 P 950 1400
 F 0 "SW25" H 1100 1510 50  0000 C CNN
 F 1 "SW_PUSH" H 950 1320 50  0000 C CNN
-F 2 "mx2a:RomerG" H 950 1400 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 950 1400 50  0001 C CNN
 F 3 "" H 950 1400 50  0000 C CNN
 	1    950  1400
 	1    0    0    -1  
@@ -324,7 +324,7 @@ U 1 1 573D7C7C
 P 1850 1400
 F 0 "SW26" H 2000 1510 50  0000 C CNN
 F 1 "SW_PUSH" H 1850 1320 50  0000 C CNN
-F 2 "mx2a:RomerG" H 1850 1400 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 1850 1400 50  0001 C CNN
 F 3 "" H 1850 1400 50  0000 C CNN
 	1    1850 1400
 	1    0    0    -1  
@@ -335,7 +335,7 @@ U 1 1 573D7C82
 P 2750 1400
 F 0 "SW27" H 2900 1510 50  0000 C CNN
 F 1 "SW_PUSH" H 2750 1320 50  0000 C CNN
-F 2 "mx2a:RomerG" H 2750 1400 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 2750 1400 50  0001 C CNN
 F 3 "" H 2750 1400 50  0000 C CNN
 	1    2750 1400
 	1    0    0    -1  
@@ -346,7 +346,7 @@ U 1 1 573D7C88
 P 3650 1400
 F 0 "SW28" H 3800 1510 50  0000 C CNN
 F 1 "SW_PUSH" H 3650 1320 50  0000 C CNN
-F 2 "mx2a:RomerG" H 3650 1400 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 3650 1400 50  0001 C CNN
 F 3 "" H 3650 1400 50  0000 C CNN
 	1    3650 1400
 	1    0    0    -1  
@@ -357,7 +357,7 @@ U 1 1 573D7C8E
 P 4550 1400
 F 0 "SW29" H 4700 1510 50  0000 C CNN
 F 1 "SW_PUSH" H 4550 1320 50  0000 C CNN
-F 2 "mx2a:RomerG" H 4550 1400 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 4550 1400 50  0001 C CNN
 F 3 "" H 4550 1400 50  0000 C CNN
 	1    4550 1400
 	1    0    0    -1  
@@ -368,7 +368,7 @@ U 1 1 573D7C94
 P 5450 1400
 F 0 "SW30" H 5600 1510 50  0000 C CNN
 F 1 "SW_PUSH" H 5450 1320 50  0000 C CNN
-F 2 "mx2a:RomerG" H 5450 1400 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 5450 1400 50  0001 C CNN
 F 3 "" H 5450 1400 50  0000 C CNN
 	1    5450 1400
 	1    0    0    -1  
@@ -379,7 +379,7 @@ U 1 1 573D7C9A
 P 6350 1400
 F 0 "SW31" H 6500 1510 50  0000 C CNN
 F 1 "SW_PUSH" H 6350 1320 50  0000 C CNN
-F 2 "mx2a:RomerG" H 6350 1400 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 6350 1400 50  0001 C CNN
 F 3 "" H 6350 1400 50  0000 C CNN
 	1    6350 1400
 	-1   0    0    -1  
@@ -390,7 +390,7 @@ U 1 1 573D7CA0
 P 7250 1400
 F 0 "SW32" H 7400 1510 50  0000 C CNN
 F 1 "SW_PUSH" H 7250 1320 50  0000 C CNN
-F 2 "mx2a:RomerG" H 7250 1400 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 7250 1400 50  0001 C CNN
 F 3 "" H 7250 1400 50  0000 C CNN
 	1    7250 1400
 	-1   0    0    -1  
@@ -401,7 +401,7 @@ U 1 1 573D7CA6
 P 8150 1400
 F 0 "SW33" H 8300 1510 50  0000 C CNN
 F 1 "SW_PUSH" H 8150 1320 50  0000 C CNN
-F 2 "mx2a:RomerG" H 8150 1400 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 8150 1400 50  0001 C CNN
 F 3 "" H 8150 1400 50  0000 C CNN
 	1    8150 1400
 	-1   0    0    -1  
@@ -412,7 +412,7 @@ U 1 1 573D7CAC
 P 9050 1400
 F 0 "SW34" H 9200 1510 50  0000 C CNN
 F 1 "SW_PUSH" H 9050 1320 50  0000 C CNN
-F 2 "mx2a:RomerG" H 9050 1400 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 9050 1400 50  0001 C CNN
 F 3 "" H 9050 1400 50  0000 C CNN
 	1    9050 1400
 	-1   0    0    -1  
@@ -423,7 +423,7 @@ U 1 1 573D7CB2
 P 9950 1400
 F 0 "SW35" H 10100 1510 50  0000 C CNN
 F 1 "SW_PUSH" H 9950 1320 50  0000 C CNN
-F 2 "mx2a:RomerG" H 9950 1400 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 9950 1400 50  0001 C CNN
 F 3 "" H 9950 1400 50  0000 C CNN
 	1    9950 1400
 	-1   0    0    -1  
@@ -434,7 +434,7 @@ U 1 1 573D7CB8
 P 10850 1400
 F 0 "SW36" H 11000 1510 50  0000 C CNN
 F 1 "SW_PUSH" H 10850 1320 50  0000 C CNN
-F 2 "mx2a:RomerG" H 10850 1400 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 10850 1400 50  0001 C CNN
 F 3 "" H 10850 1400 50  0000 C CNN
 	1    10850 1400
 	-1   0    0    -1  
@@ -445,7 +445,7 @@ U 1 1 573D7CBE
 P 1850 1850
 F 0 "SW38" H 2000 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 1850 1770 50  0000 C CNN
-F 2 "mx2a:RomerG" H 1850 1850 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 1850 1850 50  0001 C CNN
 F 3 "" H 1850 1850 50  0000 C CNN
 	1    1850 1850
 	1    0    0    -1  
@@ -456,7 +456,7 @@ U 1 1 573D7CC4
 P 2750 1850
 F 0 "SW39" H 2900 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 2750 1770 50  0000 C CNN
-F 2 "mx2a:RomerG" H 2750 1850 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 2750 1850 50  0001 C CNN
 F 3 "" H 2750 1850 50  0000 C CNN
 	1    2750 1850
 	1    0    0    -1  
@@ -467,7 +467,7 @@ U 1 1 573D7CCA
 P 3650 1850
 F 0 "SW40" H 3800 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 3650 1770 50  0000 C CNN
-F 2 "mx2a:RomerG" H 3650 1850 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 3650 1850 50  0001 C CNN
 F 3 "" H 3650 1850 50  0000 C CNN
 	1    3650 1850
 	1    0    0    -1  
@@ -478,7 +478,7 @@ U 1 1 573D7CD0
 P 4550 1850
 F 0 "SW41" H 4700 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 4550 1770 50  0000 C CNN
-F 2 "mx2a:RomerG" H 4550 1850 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 4550 1850 50  0001 C CNN
 F 3 "" H 4550 1850 50  0000 C CNN
 	1    4550 1850
 	1    0    0    -1  
@@ -489,7 +489,7 @@ U 1 1 573D7CD6
 P 5900 1850
 F 0 "SW42" H 6050 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 5900 1770 50  0000 C CNN
-F 2 "mx2a:RomerG" H 5900 1850 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 5900 1850 50  0001 C CNN
 F 3 "" H 5900 1850 50  0000 C CNN
 	1    5900 1850
 	1    0    0    -1  
@@ -500,7 +500,7 @@ U 1 1 573D7CE2
 P 950 1850
 F 0 "SW37" H 1100 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 950 1770 50  0000 C CNN
-F 2 "mx2a:RomerG" H 950 1850 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 950 1850 50  0001 C CNN
 F 3 "" H 950 1850 50  0000 C CNN
 	1    950  1850
 	1    0    0    -1  
@@ -511,7 +511,7 @@ U 1 1 573D7CE8
 P 7250 1850
 F 0 "SW43" H 7400 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 7250 1770 50  0000 C CNN
-F 2 "mx2a:RomerG" H 7250 1850 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 7250 1850 50  0001 C CNN
 F 3 "" H 7250 1850 50  0000 C CNN
 	1    7250 1850
 	-1   0    0    -1  
@@ -522,7 +522,7 @@ U 1 1 573D7CEE
 P 8150 1850
 F 0 "SW44" H 8300 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 8150 1770 50  0000 C CNN
-F 2 "mx2a:RomerG" H 8150 1850 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 8150 1850 50  0001 C CNN
 F 3 "" H 8150 1850 50  0000 C CNN
 	1    8150 1850
 	-1   0    0    -1  
@@ -533,7 +533,7 @@ U 1 1 573D7CF4
 P 9050 1850
 F 0 "SW45" H 9200 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 9050 1770 50  0000 C CNN
-F 2 "mx2a:RomerG" H 9050 1850 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 9050 1850 50  0001 C CNN
 F 3 "" H 9050 1850 50  0000 C CNN
 	1    9050 1850
 	-1   0    0    -1  
@@ -544,7 +544,7 @@ U 1 1 573D7CFA
 P 9950 1850
 F 0 "SW46" H 10100 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 9950 1770 50  0000 C CNN
-F 2 "mx2a:RomerG" H 9950 1850 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 9950 1850 50  0001 C CNN
 F 3 "" H 9950 1850 50  0000 C CNN
 	1    9950 1850
 	-1   0    0    -1  
@@ -555,7 +555,7 @@ U 1 1 573D7D00
 P 10850 1850
 F 0 "SW47" H 11000 1960 50  0000 C CNN
 F 1 "SW_PUSH" H 10850 1770 50  0000 C CNN
-F 2 "mx2a:RomerG" H 10850 1850 50  0001 C CNN
+F 2 "lib.pretty:RomerG" H 10850 1850 50  0001 C CNN
 F 3 "" H 10850 1850 50  0000 C CNN
 	1    10850 1850
 	-1   0    0    -1  
@@ -588,2020 +588,551 @@ Text Label 11350 1600 0    60   ~ 0
 Row7
 Text Label 11350 2050 0    60   ~ 0
 Row8
-Text Label 50   -1850 0    60   ~ 0
+Text Label -500 400  0    60   ~ 0
 Row1
-Text Label 50   -1750 0    60   ~ 0
+Text Label -500 500  0    60   ~ 0
 Row2
-Text Label 50   -1650 0    60   ~ 0
+Text Label -500 600  0    60   ~ 0
 Row3
-Text Label 50   -1550 0    60   ~ 0
+Text Label -500 700  0    60   ~ 0
 Row4
-Text Label 50   -1450 0    60   ~ 0
+Text Label -500 800  0    60   ~ 0
 Row5
-Text Label 50   -1350 0    60   ~ 0
+Text Label -500 900  0    60   ~ 0
 Row6
-Text Label 50   -1250 0    60   ~ 0
+Text Label -500 1000 0    60   ~ 0
 Row7
-Text Label 50   -1150 0    60   ~ 0
+Text Label -500 1100 0    60   ~ 0
 Row8
-Text Label 50   -1050 0    60   ~ 0
+Text Label -500 1200 0    60   ~ 0
 Col1
-Text Label 50   -950 0    60   ~ 0
+Text Label -500 1300 0    60   ~ 0
 Col2
-Text Label 50   -850 0    60   ~ 0
+Text Label -500 1400 0    60   ~ 0
 Col3
-Text Label 50   -750 0    60   ~ 0
+Text Label -500 1500 0    60   ~ 0
 Col4
-Text Label 50   -650 0    60   ~ 0
+Text Label -500 1600 0    60   ~ 0
 Col5
-Text Label 50   -550 0    60   ~ 0
+Text Label -500 1700 0    60   ~ 0
 Col6
-Text Label -1950 -1850 2    60   ~ 0
-A1
-Text Label -1950 -1750 2    60   ~ 0
-A2
-Text Label -1950 -1650 2    60   ~ 0
-A3
-Text Label -1950 -1550 2    60   ~ 0
-A4
-Text Label -1950 -1450 2    60   ~ 0
-A5
-Text Label -1950 -1350 2    60   ~ 0
-A6
-Text Label -1950 -1250 2    60   ~ 0
-A7
-Text Label -1950 -1150 2    60   ~ 0
-A8
-Text Label -1950 -1050 2    60   ~ 0
-A9
-Text Label -1950 -850 2    60   ~ 0
-B1
-Text Label -1950 -750 2    60   ~ 0
-B2
-Text Label -1950 -650 2    60   ~ 0
-B3
-Text Label -1950 -550 2    60   ~ 0
-B4
-Text Label -1950 -450 2    60   ~ 0
-B5
-Text Label -1950 -350 2    60   ~ 0
-B6
-Text Label -1950 -250 2    60   ~ 0
-B7
-Text Label 50   -350 0    60   ~ 0
-B8
-Text Label 50   -250 0    60   ~ 0
-B9
-Text Label -450 5000 0    60   ~ 0
-B1
-Text Label -450 5100 0    60   ~ 0
-B2
-Text Label -450 5200 0    60   ~ 0
-B3
-Text Label -450 5300 0    60   ~ 0
-B4
-Text Label -450 5400 0    60   ~ 0
-B5
-Text Label -450 5500 0    60   ~ 0
-B6
-Text Label -450 5600 0    60   ~ 0
-B7
-Text Label -450 5700 0    60   ~ 0
-B8
-Text Label -450 5800 0    60   ~ 0
-B9
-Text Label -1300 4900 1    60   ~ 0
-B1
-Text Label -1200 4900 1    60   ~ 0
-B2
-Text Label -1100 4900 1    60   ~ 0
-B3
-Text Label -1000 4900 1    60   ~ 0
-B4
-Text Label -900 4900 1    60   ~ 0
-B5
-Text Label -800 4900 1    60   ~ 0
-B6
-Text Label -700 4900 1    60   ~ 0
-B7
-Text Label -600 4900 1    60   ~ 0
-B8
-Text Label -500 4900 1    60   ~ 0
-B9
-Text Notes -450 5900 0    60   ~ 0
-Cathode
-Text Notes -1650 4900 0    60   ~ 0
-Anode
-Text Notes -450 3750 0    60   ~ 0
-Cathode
-Text Notes -1650 2750 0    60   ~ 0
-Anode
-Text Label -450 2850 0    60   ~ 0
-A1
-Text Label -450 2950 0    60   ~ 0
-A2
-Text Label -450 3050 0    60   ~ 0
-A3
-Text Label -450 3150 0    60   ~ 0
-A4
-Text Label -450 3250 0    60   ~ 0
-A5
-Text Label -450 3350 0    60   ~ 0
-A6
-Text Label -450 3450 0    60   ~ 0
-A7
-Text Label -450 3550 0    60   ~ 0
-A8
-Text Label -450 3650 0    60   ~ 0
-A9
-Text Label -1300 2750 1    60   ~ 0
-A1
-Text Label -1200 2750 1    60   ~ 0
-A2
-Text Label -1100 2750 1    60   ~ 0
-A3
-Text Label -1000 2750 1    60   ~ 0
-A4
-Text Label -900 2750 1    60   ~ 0
-A5
-Text Label -800 2750 1    60   ~ 0
-A6
-Text Label -700 2750 1    60   ~ 0
-A7
-Text Label -600 2750 1    60   ~ 0
-A8
-Text Label -500 2750 1    60   ~ 0
-A9
-Text Label 4350 4100 2    60   ~ 0
-A1
-Text Label 4750 4300 0    60   ~ 0
-A2
-Text Label 3450 3900 2    60   ~ 0
-A3
-Text Label 2950 4300 0    60   ~ 0
-A4
-Text Label 1150 3000 0    60   ~ 0
-A5
-Text Label 2050 3000 0    60   ~ 0
-A6
-Text Label 3850 3000 0    60   ~ 0
-A7
-Text Label 5650 3000 0    60   ~ 0
-A8
-Text Label 7450 3000 0    60   ~ 0
-A9
-Text Label 3850 4100 0    60   ~ 0
-A1
-Text Label 3850 4300 0    60   ~ 0
-A1
-Text Label 4350 3900 2    60   ~ 0
-A2
-Text Label 4350 4300 2    60   ~ 0
-A1
-Text Label 3450 4300 2    60   ~ 0
-A2
-Text Label 3450 4100 2    60   ~ 0
-A3
-Text Label 2550 3900 2    60   ~ 0
-A1
-Text Label 2550 4100 2    60   ~ 0
-A2
-Text Label 2550 4300 2    60   ~ 0
-A3
-Text Label 750  3400 2    60   ~ 0
-A1
-Text Label 750  3200 2    60   ~ 0
-A2
-Text Label 750  3000 2    60   ~ 0
-A3
-Text Label 1650 3000 2    60   ~ 0
-A1
-Text Label 1650 3200 2    60   ~ 0
-A2
-Text Label 1650 3400 2    60   ~ 0
-A3
-Text Label 3450 3000 2    60   ~ 0
-A1
-Text Label 3450 3200 2    60   ~ 0
-A2
-Text Label 3450 3400 2    60   ~ 0
-A3
-Text Label 5250 3000 2    60   ~ 0
-A1
-Text Label 5250 3200 2    60   ~ 0
-A2
-Text Label 5250 3400 2    60   ~ 0
-A3
-Text Label 7050 3000 2    60   ~ 0
-A1
-Text Label 7050 3200 2    60   ~ 0
-A2
-Text Label 7050 3400 2    60   ~ 0
-A3
-Text Label 4750 4100 0    60   ~ 0
-A3
-Text Label 4750 3900 0    60   ~ 0
-A3
-Text Label 3850 3900 0    60   ~ 0
-A2
-Text Label 2950 4100 0    60   ~ 0
-A4
-Text Label 2950 3900 0    60   ~ 0
-A4
-Text Label 1150 3400 0    60   ~ 0
-A5
-Text Label 1150 3200 0    60   ~ 0
-A5
-Text Label 2050 3200 0    60   ~ 0
-A6
-Text Label 2050 3400 0    60   ~ 0
-A6
-Text Label 3850 3400 0    60   ~ 0
-A7
-Text Label 3850 3200 0    60   ~ 0
-A7
-Text Label 5650 3400 0    60   ~ 0
-A8
-Text Label 5650 3200 0    60   ~ 0
-A8
-Text Label 7450 3400 0    60   ~ 0
-A9
-Text Label 7450 3200 0    60   ~ 0
-A9
-Text Label 1650 3900 2    60   ~ 0
-A4
-Text Label 750  3900 2    60   ~ 0
-A5
-Text Label 2550 3000 2    60   ~ 0
-A6
-Text Label 1650 4300 2    60   ~ 0
-A4
-Text Label 750  4100 2    60   ~ 0
-A5
-Text Label 2550 3200 2    60   ~ 0
-A6
-Text Label 1650 4100 2    60   ~ 0
-A4
-Text Label 750  4300 2    60   ~ 0
-A5
-Text Label 2550 3400 2    60   ~ 0
-A6
-Text Label 6150 3900 2    60   ~ 0
-A4
-Text Label 5250 3900 2    60   ~ 0
-A5
-Text Label 5250 4100 2    60   ~ 0
-A6
-Text Label 6150 4100 2    60   ~ 0
-A4
-Text Label 6150 4300 2    60   ~ 0
-A5
-Text Label 5250 4300 2    60   ~ 0
-A6
-Text Label 7050 3900 2    60   ~ 0
-A4
-Text Label 8850 3900 2    60   ~ 0
-A5
-Text Label 10650 4300 2    60   ~ 0
-A6
-Text Label 7050 4100 2    60   ~ 0
-A4
-Text Label 8850 4100 2    60   ~ 0
-A5
-Text Label 10650 4100 2    60   ~ 0
-A6
-Text Label 7050 4300 2    60   ~ 0
-A4
-Text Label 8850 4300 2    60   ~ 0
-A5
-Text Label 10650 3900 2    60   ~ 0
-A6
-Text Label 4750 3000 0    60   ~ 0
-A1
-Text Label 4750 3200 0    60   ~ 0
-A2
-Text Label 4750 3400 0    60   ~ 0
-A3
-Text Label 6550 3400 0    60   ~ 0
-A3
-Text Label 8350 3400 0    60   ~ 0
-A3
-Text Label 6550 3200 0    60   ~ 0
-A2
-Text Label 8350 3200 0    60   ~ 0
-A2
-Text Label 6550 3000 0    60   ~ 0
-A1
-Text Label 8350 3000 0    60   ~ 0
-A1
-Text Label 6550 3900 0    60   ~ 0
-A5
-Text Label 5650 3900 0    60   ~ 0
-A4
-Text Label 5650 4100 0    60   ~ 0
-A4
-Text Label 6550 4100 0    60   ~ 0
-A6
-Text Label 6550 4300 0    60   ~ 0
-A6
-Text Label 5650 4300 0    60   ~ 0
-A5
-Text Label 7450 3900 0    60   ~ 0
-A7
-Text Label 9250 4300 0    60   ~ 0
-A7
-Text Label 11050 4300 0    60   ~ 0
-A7
-Text Label 7450 4100 0    60   ~ 0
-A8
-Text Label 9250 3900 0    60   ~ 0
-A9
-Text Label 9250 4100 0    60   ~ 0
-A8
-Text Label 11050 4100 0    60   ~ 0
-A8
-Text Label 11050 3900 0    60   ~ 0
-A9
-Text Label 7450 4300 0    60   ~ 0
-A9
-Text Label 9750 3200 2    60   ~ 0
-A7
-Text Label 9750 3000 2    60   ~ 0
-A8
-Text Label 8850 3400 2    60   ~ 0
-A9
-Text Label 9750 3400 2    60   ~ 0
-A7
-Text Label 8850 3000 2    60   ~ 0
-A8
-Text Label 8850 3200 2    60   ~ 0
-A9
-Text Label 4350 3200 2    60   ~ 0
-A7
-Text Label 6150 3400 2    60   ~ 0
-A8
-Text Label 7950 3200 2    60   ~ 0
-A9
-Text Label 4350 3400 2    60   ~ 0
-A7
-Text Label 6150 3200 2    60   ~ 0
-A8
-Text Label 7950 3400 2    60   ~ 0
-A9
-Text Label 4350 3000 2    60   ~ 0
-A7
-Text Label 6150 3000 2    60   ~ 0
-A8
-Text Label 7950 3000 2    60   ~ 0
-A9
-Text Label 9750 4300 2    60   ~ 0
-A7
-Text Label 9750 4100 2    60   ~ 0
-A8
-Text Label 9750 3900 2    60   ~ 0
-A9
-Text Label 10650 3400 2    60   ~ 0
-A7
-Text Label 10650 3200 2    60   ~ 0
-A8
-Text Label 10650 3000 2    60   ~ 0
-A9
-Text Label 7950 4300 2    60   ~ 0
-A7
-Text Label 7950 4100 2    60   ~ 0
-A8
-Text Label 7950 3900 2    60   ~ 0
-A9
-Text Label 2050 4300 0    60   ~ 0
-A1
-Text Label 1150 4300 0    60   ~ 0
-A1
-Text Label 2950 3000 0    60   ~ 0
-A1
-Text Label 2050 4100 0    60   ~ 0
-A2
-Text Label 1150 4100 0    60   ~ 0
-A2
-Text Label 2950 3200 0    60   ~ 0
-A2
-Text Label 2050 3900 0    60   ~ 0
-A3
-Text Label 1150 3900 0    60   ~ 0
-A3
-Text Label 2950 3400 0    60   ~ 0
-A3
-Text Label 8350 4100 0    60   ~ 0
-A4
-Text Label 8350 3900 0    60   ~ 0
-A4
-Text Label 8350 4300 0    60   ~ 0
-A4
-Text Label 10150 4300 0    60   ~ 0
-A5
-Text Label 10150 3900 0    60   ~ 0
-A5
-Text Label 10150 4100 0    60   ~ 0
-A5
-Text Label 11050 3000 0    60   ~ 0
-A6
-Text Label 11050 3400 0    60   ~ 0
-A6
-Text Label 11050 3200 0    60   ~ 0
-A6
-Text Label 10150 3400 0    60   ~ 0
-A8
-Text Label 9250 3000 0    60   ~ 0
-A7
-Text Label 9250 3200 0    60   ~ 0
-A7
-Text Label 10150 3200 0    60   ~ 0
-A9
-Text Label 10150 3000 0    60   ~ 0
-A9
-Text Label 9250 3400 0    60   ~ 0
-A8
-Text Label 6550 4800 0    60   ~ 0
-B2
-Text Label 10650 5200 2    60   ~ 0
-B1
-Text Label 10650 4800 2    60   ~ 0
-B3
-Text Label 2050 5000 0    60   ~ 0
-B4
-Text Label 1150 4800 0    60   ~ 0
-B5
-Text Label 11050 4800 0    60   ~ 0
-B6
-Text Label 10150 6100 0    60   ~ 0
-B7
-Text Label 8350 5700 0    60   ~ 0
-B8
-Text Label 7450 6100 0    60   ~ 0
-B9
-Text Label 5650 5000 0    60   ~ 0
-B1
-Text Label 5650 4800 0    60   ~ 0
-B1
-Text Label 10650 5000 2    60   ~ 0
-B2
-Text Label 6150 5000 2    60   ~ 0
-B1
-Text Label 6150 5200 2    60   ~ 0
-B2
-Text Label 5250 5200 2    60   ~ 0
-B3
-Text Label 7050 5200 2    60   ~ 0
-B1
-Text Label 7050 5000 2    60   ~ 0
-B2
-Text Label 7050 4800 2    60   ~ 0
-B3
-Text Label 7950 6100 2    60   ~ 0
-B1
-Text Label 7950 5900 2    60   ~ 0
-B2
-Text Label 7950 5700 2    60   ~ 0
-B3
-Text Label 9750 6100 2    60   ~ 0
-B1
-Text Label 9750 5900 2    60   ~ 0
-B2
-Text Label 9750 5700 2    60   ~ 0
-B3
-Text Label 6150 4800 2    60   ~ 0
-B1
-Text Label 5250 4800 2    60   ~ 0
-B2
-Text Label 5250 5000 2    60   ~ 0
-B3
-Text Label 7050 5700 2    60   ~ 0
-B1
-Text Label 7050 5900 2    60   ~ 0
-B2
-Text Label 7050 6100 2    60   ~ 0
-B3
-Text Label 8850 5200 2    60   ~ 0
-B1
-Text Label 8850 5000 2    60   ~ 0
-B2
-Text Label 8850 4800 2    60   ~ 0
-B3
-Text Label 6550 5000 0    60   ~ 0
-B3
-Text Label 6550 5200 0    60   ~ 0
-B3
-Text Label 5650 5200 0    60   ~ 0
-B2
-Text Label 2050 5200 0    60   ~ 0
-B4
-Text Label 2050 4800 0    60   ~ 0
-B4
-Text Label 1150 5200 0    60   ~ 0
-B5
-Text Label 1150 5000 0    60   ~ 0
-B5
-Text Label 11050 5000 0    60   ~ 0
-B6
-Text Label 11050 5200 0    60   ~ 0
-B6
-Text Label 10150 5900 0    60   ~ 0
-B7
-Text Label 10150 5700 0    60   ~ 0
-B7
-Text Label 8350 6100 0    60   ~ 0
-B8
-Text Label 8350 5900 0    60   ~ 0
-B8
-Text Label 7450 5700 0    60   ~ 0
-B9
-Text Label 7450 5900 0    60   ~ 0
-B9
-Text Label 2550 5000 2    60   ~ 0
-B4
-Text Label 750  5900 2    60   ~ 0
-B5
-Text Label 3450 5900 2    60   ~ 0
-B6
-Text Label 7950 5000 2    60   ~ 0
-B4
-Text Label 9750 5000 2    60   ~ 0
-B5
-Text Label 10650 5900 2    60   ~ 0
-B6
-Text Label 7950 4800 2    60   ~ 0
-B4
-Text Label 9750 5200 2    60   ~ 0
-B5
-Text Label 10650 5700 2    60   ~ 0
-B6
-Text Label 2550 4800 2    60   ~ 0
-B4
-Text Label 750  5700 2    60   ~ 0
-B5
-Text Label 3450 6100 2    60   ~ 0
-B6
-Text Label 4350 5200 2    60   ~ 0
-B4
-Text Label 3450 5200 2    60   ~ 0
-B5
-Text Label 3450 5000 2    60   ~ 0
-B6
-Text Label 4350 5000 2    60   ~ 0
-B4
-Text Label 4350 4800 2    60   ~ 0
-B5
-Text Label 3450 4800 2    60   ~ 0
-B6
-Text Label 2550 5200 2    60   ~ 0
-B4
-Text Label 750  6100 2    60   ~ 0
-B5
-Text Label 3450 5700 2    60   ~ 0
-B6
-Text Label 7950 5200 2    60   ~ 0
-B4
-Text Label 9750 4800 2    60   ~ 0
-B5
-Text Label 10650 6100 2    60   ~ 0
-B6
-Text Label 8350 5200 0    60   ~ 0
-B1
-Text Label 9250 5900 0    60   ~ 0
-B2
-Text Label 9250 5700 0    60   ~ 0
-B3
-Text Label 6100 5700 0    60   ~ 0
-B3
-Text Label 6100 5900 0    60   ~ 0
-B2
-Text Label 10150 5200 0    60   ~ 0
-B1
-Text Label 11050 5700 0    60   ~ 0
-B1
-Text Label 4750 5200 0    60   ~ 0
-B5
-Text Label 3850 5200 0    60   ~ 0
-B4
-Text Label 3850 5000 0    60   ~ 0
-B4
-Text Label 4750 4800 0    60   ~ 0
-B6
-Text Label 4750 5000 0    60   ~ 0
-B6
-Text Label 3850 4800 0    60   ~ 0
-B5
-Text Label 2950 5200 0    60   ~ 0
-B7
-Text Label 1150 5700 0    60   ~ 0
-B7
-Text Label 3850 6100 0    60   ~ 0
-B7
-Text Label 2950 5000 0    60   ~ 0
-B8
-Text Label 2950 4800 0    60   ~ 0
-B9
-Text Label 1150 5900 0    60   ~ 0
-B8
-Text Label 3850 5900 0    60   ~ 0
-B8
-Text Label 1150 6100 0    60   ~ 0
-B9
-Text Label 3850 5700 0    60   ~ 0
-B9
-Text Label 2550 5900 2    60   ~ 0
-B7
-Text Label 2550 6100 2    60   ~ 0
-B8
-Text Label 1650 6100 2    60   ~ 0
-B9
-Text Label 750  5200 2    60   ~ 0
-B7
-Text Label 750  5000 2    60   ~ 0
-B8
-Text Label 750  4800 2    60   ~ 0
-B9
-Text Label 8850 6100 2    60   ~ 0
-B7
-Text Label 5700 6100 2    60   ~ 0
-B9
-Text Label 1650 5200 2    60   ~ 0
-B7
-Text Label 1650 5000 2    60   ~ 0
-B8
-Text Label 1650 4800 2    60   ~ 0
-B9
-Text Label 8850 5700 2    60   ~ 0
-B7
-Text Label 5700 5700 2    60   ~ 0
-B9
-Text Label 8850 5900 2    60   ~ 0
-B7
-Text Label 5700 5900 2    60   ~ 0
-B9
-Text Label 4350 5700 2    60   ~ 0
-B7
-Text Label 4350 5900 2    60   ~ 0
-B8
-Text Label 4350 6100 2    60   ~ 0
-B9
-Text Label 9250 6100 0    60   ~ 0
-B1
-Text Label 6100 6100 0    60   ~ 0
-B1
-Text Label 8350 5000 0    60   ~ 0
-B2
-Text Label 10150 5000 0    60   ~ 0
-B2
-Text Label 11050 5900 0    60   ~ 0
-B2
-Text Label 8350 4800 0    60   ~ 0
-B3
-Text Label 10150 4800 0    60   ~ 0
-B3
-Text Label 11050 6100 0    60   ~ 0
-B3
-Text Label 7450 5200 0    60   ~ 0
-B4
-Text Label 7450 5000 0    60   ~ 0
-B4
-Text Label 7450 4800 0    60   ~ 0
-B4
-Text Label 9250 4800 0    60   ~ 0
-B5
-Text Label 9250 5000 0    60   ~ 0
-B5
-Text Label 9250 5200 0    60   ~ 0
-B5
-Text Label 4750 5700 0    60   ~ 0
-B6
-Text Label 4750 6100 0    60   ~ 0
-B6
-Text Label 4750 5900 0    60   ~ 0
-B6
-Text Label 2950 5900 0    60   ~ 0
-B9
-Text Label 2950 6100 0    60   ~ 0
-B9
-Text Label 2050 6100 0    60   ~ 0
-B8
-NoConn ~ -550 3600
-NoConn ~ -650 3500
-NoConn ~ -750 3400
-NoConn ~ -850 3300
-NoConn ~ -950 3200
-NoConn ~ -1050 3100
-NoConn ~ -1150 3000
-NoConn ~ -1250 2900
-NoConn ~ -1350 2800
-NoConn ~ -1350 4950
-NoConn ~ -1250 5050
-NoConn ~ -1150 5150
-NoConn ~ -1050 5250
-NoConn ~ -950 5350
-NoConn ~ -850 5450
-NoConn ~ -750 5550
-NoConn ~ -650 5650
-NoConn ~ -550 5750
 $Comp
-L LED_RGB D1
-U 1 1 573EFDF5
-P 950 3200
-F 0 "D1" H 950 3625 50  0000 C CNN
-F 1 "LED_RGB" H 950 3550 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 950 3150 50  0001 C CNN
-F 3 "" H 950 3150 50  0000 C CNN
-	1    950  3200
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D2
-U 1 1 573F5715
-P 1850 3200
-F 0 "D2" H 1850 3625 50  0000 C CNN
-F 1 "LED_RGB" H 1850 3550 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 1850 3150 50  0001 C CNN
-F 3 "" H 1850 3150 50  0000 C CNN
-	1    1850 3200
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D3
-U 1 1 573F584F
-P 2750 3200
-F 0 "D3" H 2750 3625 50  0000 C CNN
-F 1 "LED_RGB" H 2750 3550 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 2750 3150 50  0001 C CNN
-F 3 "" H 2750 3150 50  0000 C CNN
-	1    2750 3200
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D4
-U 1 1 573F598E
-P 3650 3200
-F 0 "D4" H 3650 3625 50  0000 C CNN
-F 1 "LED_RGB" H 3650 3550 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 3650 3150 50  0001 C CNN
-F 3 "" H 3650 3150 50  0000 C CNN
-	1    3650 3200
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D5
-U 1 1 573F5E54
-P 4550 3200
-F 0 "D5" H 4550 3625 50  0000 C CNN
-F 1 "LED_RGB" H 4550 3550 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 4550 3150 50  0001 C CNN
-F 3 "" H 4550 3150 50  0000 C CNN
-	1    4550 3200
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D6
-U 1 1 573F5F97
-P 5450 3200
-F 0 "D6" H 5450 3625 50  0000 C CNN
-F 1 "LED_RGB" H 5450 3550 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 5450 3150 50  0001 C CNN
-F 3 "" H 5450 3150 50  0000 C CNN
-	1    5450 3200
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D7
-U 1 1 573F60DF
-P 6350 3200
-F 0 "D7" H 6350 3625 50  0000 C CNN
-F 1 "LED_RGB" H 6350 3550 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 6350 3150 50  0001 C CNN
-F 3 "" H 6350 3150 50  0000 C CNN
-	1    6350 3200
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D8
-U 1 1 573F622A
-P 7250 3200
-F 0 "D8" H 7250 3625 50  0000 C CNN
-F 1 "LED_RGB" H 7250 3550 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 7250 3150 50  0001 C CNN
-F 3 "" H 7250 3150 50  0000 C CNN
-	1    7250 3200
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D9
-U 1 1 573F689A
-P 8150 3200
-F 0 "D9" H 8150 3625 50  0000 C CNN
-F 1 "LED_RGB" H 8150 3550 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 8150 3150 50  0001 C CNN
-F 3 "" H 8150 3150 50  0000 C CNN
-	1    8150 3200
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D10
-U 1 1 573F6CE2
-P 9050 3200
-F 0 "D10" H 9050 3625 50  0000 C CNN
-F 1 "LED_RGB" H 9050 3550 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 9050 3150 50  0001 C CNN
-F 3 "" H 9050 3150 50  0000 C CNN
-	1    9050 3200
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D11
-U 1 1 573F6E37
-P 9950 3200
-F 0 "D11" H 9950 3625 50  0000 C CNN
-F 1 "LED_RGB" H 9950 3550 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 9950 3150 50  0001 C CNN
-F 3 "" H 9950 3150 50  0000 C CNN
-	1    9950 3200
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D12
-U 1 1 573F6F9D
-P 10850 3200
-F 0 "D12" H 10850 3625 50  0000 C CNN
-F 1 "LED_RGB" H 10850 3550 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 10850 3150 50  0001 C CNN
-F 3 "" H 10850 3150 50  0000 C CNN
-	1    10850 3200
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D47
-U 1 1 573FAFF3
-P 10850 5900
-F 0 "D47" H 10850 6325 50  0000 C CNN
-F 1 "LED_RGB" H 10850 6250 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 10850 5850 50  0001 C CNN
-F 3 "" H 10850 5850 50  0000 C CNN
-	1    10850 5900
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D46
-U 1 1 573FBD10
-P 9950 5900
-F 0 "D46" H 9950 6325 50  0000 C CNN
-F 1 "LED_RGB" H 9950 6250 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 9950 5850 50  0001 C CNN
-F 3 "" H 9950 5850 50  0000 C CNN
-	1    9950 5900
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D45
-U 1 1 573FBDFE
-P 9050 5900
-F 0 "D45" H 9050 6325 50  0000 C CNN
-F 1 "LED_RGB" H 9050 6250 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 9050 5850 50  0001 C CNN
-F 3 "" H 9050 5850 50  0000 C CNN
-	1    9050 5900
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D44
-U 1 1 573FC854
-P 8150 5900
-F 0 "D44" H 8150 6325 50  0000 C CNN
-F 1 "LED_RGB" H 8150 6250 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 8150 5850 50  0001 C CNN
-F 3 "" H 8150 5850 50  0000 C CNN
-	1    8150 5900
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D43
-U 1 1 573FC85A
-P 7250 5900
-F 0 "D43" H 7250 6325 50  0000 C CNN
-F 1 "LED_RGB" H 7250 6250 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 7250 5850 50  0001 C CNN
-F 3 "" H 7250 5850 50  0000 C CNN
-	1    7250 5900
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D42
-U 1 1 573FC860
-P 5900 5900
-F 0 "D42" H 5900 6325 50  0000 C CNN
-F 1 "LED_RGB" H 5900 6250 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 5900 5850 50  0001 C CNN
-F 3 "" H 5900 5850 50  0000 C CNN
-	1    5900 5900
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D41
-U 1 1 573FD5A4
-P 4550 5900
-F 0 "D41" H 4550 6325 50  0000 C CNN
-F 1 "LED_RGB" H 4550 6250 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 4550 5850 50  0001 C CNN
-F 3 "" H 4550 5850 50  0000 C CNN
-	1    4550 5900
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D40
-U 1 1 573FD5AA
-P 3650 5900
-F 0 "D40" H 3650 6325 50  0000 C CNN
-F 1 "LED_RGB" H 3650 6250 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 3650 5850 50  0001 C CNN
-F 3 "" H 3650 5850 50  0000 C CNN
-	1    3650 5900
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D39
-U 1 1 573FD5B0
-P 2750 5900
-F 0 "D39" H 2750 6325 50  0000 C CNN
-F 1 "LED_RGB" H 2750 6250 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 2750 5850 50  0001 C CNN
-F 3 "" H 2750 5850 50  0000 C CNN
-	1    2750 5900
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D38
-U 1 1 573FD5B6
-P 1850 5900
-F 0 "D38" H 1850 6325 50  0000 C CNN
-F 1 "LED_RGB" H 1850 6250 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 1850 5850 50  0001 C CNN
-F 3 "" H 1850 5850 50  0000 C CNN
-	1    1850 5900
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D37
-U 1 1 573FD5BC
-P 950 5900
-F 0 "D37" H 950 6325 50  0000 C CNN
-F 1 "LED_RGB" H 950 6250 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 950 5850 50  0001 C CNN
-F 3 "" H 950 5850 50  0000 C CNN
-	1    950  5900
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D24
-U 1 1 573FE826
-P 10850 4100
-F 0 "D24" H 10850 4525 50  0000 C CNN
-F 1 "LED_RGB" H 10850 4450 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 10850 4050 50  0001 C CNN
-F 3 "" H 10850 4050 50  0000 C CNN
-	1    10850 4100
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D23
-U 1 1 573FE82C
-P 9950 4100
-F 0 "D23" H 9950 4525 50  0000 C CNN
-F 1 "LED_RGB" H 9950 4450 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 9950 4050 50  0001 C CNN
-F 3 "" H 9950 4050 50  0000 C CNN
-	1    9950 4100
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D22
-U 1 1 573FE832
-P 9050 4100
-F 0 "D22" H 9050 4525 50  0000 C CNN
-F 1 "LED_RGB" H 9050 4450 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 9050 4050 50  0001 C CNN
-F 3 "" H 9050 4050 50  0000 C CNN
-	1    9050 4100
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D21
-U 1 1 573FE838
-P 8150 4100
-F 0 "D21" H 8150 4525 50  0000 C CNN
-F 1 "LED_RGB" H 8150 4450 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 8150 4050 50  0001 C CNN
-F 3 "" H 8150 4050 50  0000 C CNN
-	1    8150 4100
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D20
-U 1 1 573FE83E
-P 7250 4100
-F 0 "D20" H 7250 4525 50  0000 C CNN
-F 1 "LED_RGB" H 7250 4450 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 7250 4050 50  0001 C CNN
-F 3 "" H 7250 4050 50  0000 C CNN
-	1    7250 4100
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D19
-U 1 1 573FE844
-P 6350 4100
-F 0 "D19" H 6350 4525 50  0000 C CNN
-F 1 "LED_RGB" H 6350 4450 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 6350 4050 50  0001 C CNN
-F 3 "" H 6350 4050 50  0000 C CNN
-	1    6350 4100
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D18
-U 1 1 573FE84A
-P 5450 4100
-F 0 "D18" H 5450 4525 50  0000 C CNN
-F 1 "LED_RGB" H 5450 4450 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 5450 4050 50  0001 C CNN
-F 3 "" H 5450 4050 50  0000 C CNN
-	1    5450 4100
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D17
-U 1 1 573FE850
-P 4550 4100
-F 0 "D17" H 4550 4525 50  0000 C CNN
-F 1 "LED_RGB" H 4550 4450 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 4550 4050 50  0001 C CNN
-F 3 "" H 4550 4050 50  0000 C CNN
-	1    4550 4100
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D16
-U 1 1 573FE856
-P 3650 4100
-F 0 "D16" H 3650 4525 50  0000 C CNN
-F 1 "LED_RGB" H 3650 4450 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 3650 4050 50  0001 C CNN
-F 3 "" H 3650 4050 50  0000 C CNN
-	1    3650 4100
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D15
-U 1 1 573FE85C
-P 2750 4100
-F 0 "D15" H 2750 4525 50  0000 C CNN
-F 1 "LED_RGB" H 2750 4450 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 2750 4050 50  0001 C CNN
-F 3 "" H 2750 4050 50  0000 C CNN
-	1    2750 4100
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D14
-U 1 1 573FE862
-P 1850 4100
-F 0 "D14" H 1850 4525 50  0000 C CNN
-F 1 "LED_RGB" H 1850 4450 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 1850 4050 50  0001 C CNN
-F 3 "" H 1850 4050 50  0000 C CNN
-	1    1850 4100
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D13
-U 1 1 573FE868
-P 950 4100
-F 0 "D13" H 950 4525 50  0000 C CNN
-F 1 "LED_RGB" H 950 4450 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 950 4050 50  0001 C CNN
-F 3 "" H 950 4050 50  0000 C CNN
-	1    950  4100
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D36
-U 1 1 573FEB06
-P 10850 5000
-F 0 "D36" H 10850 5425 50  0000 C CNN
-F 1 "LED_RGB" H 10850 5350 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 10850 4950 50  0001 C CNN
-F 3 "" H 10850 4950 50  0000 C CNN
-	1    10850 5000
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D35
-U 1 1 573FEB0C
-P 9950 5000
-F 0 "D35" H 9950 5425 50  0000 C CNN
-F 1 "LED_RGB" H 9950 5350 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 9950 4950 50  0001 C CNN
-F 3 "" H 9950 4950 50  0000 C CNN
-	1    9950 5000
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D34
-U 1 1 573FEB12
-P 9050 5000
-F 0 "D34" H 9050 5425 50  0000 C CNN
-F 1 "LED_RGB" H 9050 5350 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 9050 4950 50  0001 C CNN
-F 3 "" H 9050 4950 50  0000 C CNN
-	1    9050 5000
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D33
-U 1 1 573FEB18
-P 8150 5000
-F 0 "D33" H 8150 5425 50  0000 C CNN
-F 1 "LED_RGB" H 8150 5350 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 8150 4950 50  0001 C CNN
-F 3 "" H 8150 4950 50  0000 C CNN
-	1    8150 5000
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D32
-U 1 1 573FEB1E
-P 7250 5000
-F 0 "D32" H 7250 5425 50  0000 C CNN
-F 1 "LED_RGB" H 7250 5350 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 7250 4950 50  0001 C CNN
-F 3 "" H 7250 4950 50  0000 C CNN
-	1    7250 5000
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D31
-U 1 1 573FEB24
-P 6350 5000
-F 0 "D31" H 6350 5425 50  0000 C CNN
-F 1 "LED_RGB" H 6350 5350 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 6350 4950 50  0001 C CNN
-F 3 "" H 6350 4950 50  0000 C CNN
-	1    6350 5000
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D30
-U 1 1 573FEB2A
-P 5450 5000
-F 0 "D30" H 5450 5425 50  0000 C CNN
-F 1 "LED_RGB" H 5450 5350 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 5450 4950 50  0001 C CNN
-F 3 "" H 5450 4950 50  0000 C CNN
-	1    5450 5000
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D29
-U 1 1 573FEB30
-P 4550 5000
-F 0 "D29" H 4550 5425 50  0000 C CNN
-F 1 "LED_RGB" H 4550 5350 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 4550 4950 50  0001 C CNN
-F 3 "" H 4550 4950 50  0000 C CNN
-	1    4550 5000
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D28
-U 1 1 573FEB36
-P 3650 5000
-F 0 "D28" H 3650 5425 50  0000 C CNN
-F 1 "LED_RGB" H 3650 5350 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 3650 4950 50  0001 C CNN
-F 3 "" H 3650 4950 50  0000 C CNN
-	1    3650 5000
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D27
-U 1 1 573FEB3C
-P 2750 5000
-F 0 "D27" H 2750 5425 50  0000 C CNN
-F 1 "LED_RGB" H 2750 5350 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 2750 4950 50  0001 C CNN
-F 3 "" H 2750 4950 50  0000 C CNN
-	1    2750 5000
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D26
-U 1 1 573FEB42
-P 1850 5000
-F 0 "D26" H 1850 5425 50  0000 C CNN
-F 1 "LED_RGB" H 1850 5350 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 1850 4950 50  0001 C CNN
-F 3 "" H 1850 4950 50  0000 C CNN
-	1    1850 5000
-	1    0    0    1   
-$EndComp
-$Comp
-L LED_RGB D25
-U 1 1 573FEB48
-P 950 5000
-F 0 "D25" H 950 5425 50  0000 C CNN
-F 1 "LED_RGB" H 950 5350 50  0000 C CNN
-F 2 "mx2a:plcc-6" H 950 4950 50  0001 C CNN
-F 3 "" H 950 4950 50  0000 C CNN
-	1    950  5000
-	1    0    0    1   
-$EndComp
-$Sheet
-S -1950 -1950 2000 1900
-U 573CCE5B
-F0 "MCU" 60
-F1 "MCU.sch" 60
-F2 "Row1" I R 50  -1850 60 
-F3 "Row2" I R 50  -1750 60 
-F4 "Row3" I R 50  -1650 60 
-F5 "Row4" I R 50  -1550 60 
-F6 "Row5" I R 50  -1450 60 
-F7 "Row6" I R 50  -1350 60 
-F8 "Row7" I R 50  -1250 60 
-F9 "Row8" I R 50  -1150 60 
-F10 "Col1" I R 50  -1050 60 
-F11 "Col2" I R 50  -950 60 
-F12 "Col3" I R 50  -850 60 
-F13 "Col4" I R 50  -750 60 
-F14 "Col5" I R 50  -650 60 
-F15 "Col6" I R 50  -550 60 
-F16 "A1" I L -1950 -1850 60 
-F17 "A2" I L -1950 -1750 60 
-F18 "A4" I L -1950 -1550 60 
-F19 "A3" I L -1950 -1650 60 
-F20 "A5" I L -1950 -1450 60 
-F21 "A6" I L -1950 -1350 60 
-F22 "A7" I L -1950 -1250 60 
-F23 "A8" I L -1950 -1150 60 
-F24 "A9" I L -1950 -1050 60 
-F25 "B1" I L -1950 -850 60 
-F26 "B2" I L -1950 -750 60 
-F27 "B3" I L -1950 -650 60 
-F28 "B4" I L -1950 -550 60 
-F29 "B5" I L -1950 -450 60 
-F30 "B6" I L -1950 -350 60 
-F31 "B7" I L -1950 -250 60 
-F32 "B8" I R 50  -350 60 
-F33 "B9" I R 50  -250 60 
-$EndSheet
-$Comp
-L D_Small D63
+L D_Small D15
 U 1 1 5745089F
 P 2450 1100
-F 0 "D63" H 2400 1180 50  0000 L CNN
+F 0 "D15" H 2400 1180 50  0000 L CNN
 F 1 "D_Small" H 2300 1020 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 2450 1100 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 2450 1100 50  0001 C CNN
 F 3 "" V 2450 1100 50  0000 C CNN
 	1    2450 1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D49
+L D_Small D1
 U 1 1 57476FD1
 P 650 700
-F 0 "D49" H 600 780 50  0000 L CNN
+F 0 "D1" H 600 780 50  0000 L CNN
 F 1 "D_Small" H 500 620 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 650 700 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 650 700 50  0001 C CNN
 F 3 "" V 650 700 50  0000 C CNN
 	1    650  700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D50
+L D_Small D2
 U 1 1 5747720F
 P 1550 700
-F 0 "D50" H 1500 780 50  0000 L CNN
+F 0 "D2" H 1500 780 50  0000 L CNN
 F 1 "D_Small" H 1400 620 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 1550 700 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 1550 700 50  0001 C CNN
 F 3 "" V 1550 700 50  0000 C CNN
 	1    1550 700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D51
+L D_Small D3
 U 1 1 57477B20
 P 2450 700
-F 0 "D51" H 2400 780 50  0000 L CNN
+F 0 "D3" H 2400 780 50  0000 L CNN
 F 1 "D_Small" H 2300 620 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 2450 700 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 2450 700 50  0001 C CNN
 F 3 "" V 2450 700 50  0000 C CNN
 	1    2450 700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D62
+L D_Small D14
 U 1 1 57477D2C
 P 1550 1100
-F 0 "D62" H 1500 1180 50  0000 L CNN
+F 0 "D14" H 1500 1180 50  0000 L CNN
 F 1 "D_Small" H 1400 1020 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 1550 1100 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 1550 1100 50  0001 C CNN
 F 3 "" V 1550 1100 50  0000 C CNN
 	1    1550 1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D61
+L D_Small D13
 U 1 1 57477F71
 P 650 1100
-F 0 "D61" H 600 1180 50  0000 L CNN
+F 0 "D13" H 600 1180 50  0000 L CNN
 F 1 "D_Small" H 500 1020 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 650 1100 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 650 1100 50  0001 C CNN
 F 3 "" V 650 1100 50  0000 C CNN
 	1    650  1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D73
+L D_Small D25
 U 1 1 574781AF
 P 650 1500
-F 0 "D73" H 600 1580 50  0000 L CNN
+F 0 "D25" H 600 1580 50  0000 L CNN
 F 1 "D_Small" H 500 1420 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 650 1500 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 650 1500 50  0001 C CNN
 F 3 "" V 650 1500 50  0000 C CNN
 	1    650  1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D85
+L D_Small D37
 U 1 1 574783E8
 P 650 1950
-F 0 "D85" H 600 2030 50  0000 L CNN
+F 0 "D37" H 600 2030 50  0000 L CNN
 F 1 "D_Small" H 500 1870 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 650 1950 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 650 1950 50  0001 C CNN
 F 3 "" V 650 1950 50  0000 C CNN
 	1    650  1950
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D86
+L D_Small D38
 U 1 1 57478606
 P 1550 1950
-F 0 "D86" H 1500 2030 50  0000 L CNN
+F 0 "D38" H 1500 2030 50  0000 L CNN
 F 1 "D_Small" H 1400 1870 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 1550 1950 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 1550 1950 50  0001 C CNN
 F 3 "" V 1550 1950 50  0000 C CNN
 	1    1550 1950
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D74
+L D_Small D26
 U 1 1 5747884F
 P 1550 1500
-F 0 "D74" H 1500 1580 50  0000 L CNN
+F 0 "D26" H 1500 1580 50  0000 L CNN
 F 1 "D_Small" H 1400 1420 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 1550 1500 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 1550 1500 50  0001 C CNN
 F 3 "" V 1550 1500 50  0000 C CNN
 	1    1550 1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D75
+L D_Small D27
 U 1 1 57478A6B
 P 2450 1500
-F 0 "D75" H 2400 1580 50  0000 L CNN
+F 0 "D27" H 2400 1580 50  0000 L CNN
 F 1 "D_Small" H 2300 1420 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 2450 1500 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 2450 1500 50  0001 C CNN
 F 3 "" V 2450 1500 50  0000 C CNN
 	1    2450 1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D87
+L D_Small D39
 U 1 1 57478CA8
 P 2450 1950
-F 0 "D87" H 2400 2030 50  0000 L CNN
+F 0 "D39" H 2400 2030 50  0000 L CNN
 F 1 "D_Small" H 2300 1870 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 2450 1950 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 2450 1950 50  0001 C CNN
 F 3 "" V 2450 1950 50  0000 C CNN
 	1    2450 1950
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D88
+L D_Small D40
 U 1 1 57478ED2
 P 3350 1950
-F 0 "D88" H 3300 2030 50  0000 L CNN
+F 0 "D40" H 3300 2030 50  0000 L CNN
 F 1 "D_Small" H 3200 1870 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 3350 1950 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 3350 1950 50  0001 C CNN
 F 3 "" V 3350 1950 50  0000 C CNN
 	1    3350 1950
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D76
+L D_Small D28
 U 1 1 57479111
 P 3350 1500
-F 0 "D76" H 3300 1580 50  0000 L CNN
+F 0 "D28" H 3300 1580 50  0000 L CNN
 F 1 "D_Small" H 3200 1420 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 3350 1500 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 3350 1500 50  0001 C CNN
 F 3 "" V 3350 1500 50  0000 C CNN
 	1    3350 1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D64
+L D_Small D16
 U 1 1 57479339
 P 3350 1100
-F 0 "D64" H 3300 1180 50  0000 L CNN
+F 0 "D16" H 3300 1180 50  0000 L CNN
 F 1 "D_Small" H 3200 1020 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 3350 1100 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 3350 1100 50  0001 C CNN
 F 3 "" V 3350 1100 50  0000 C CNN
 	1    3350 1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D52
+L D_Small D4
 U 1 1 57479562
 P 3350 700
-F 0 "D52" H 3300 780 50  0000 L CNN
+F 0 "D4" H 3300 780 50  0000 L CNN
 F 1 "D_Small" H 3200 620 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 3350 700 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 3350 700 50  0001 C CNN
 F 3 "" V 3350 700 50  0000 C CNN
 	1    3350 700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D53
+L D_Small D5
 U 1 1 57479792
 P 4250 700
-F 0 "D53" H 4200 780 50  0000 L CNN
+F 0 "D5" H 4200 780 50  0000 L CNN
 F 1 "D_Small" H 4100 620 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 4250 700 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 4250 700 50  0001 C CNN
 F 3 "" V 4250 700 50  0000 C CNN
 	1    4250 700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D65
+L D_Small D17
 U 1 1 574799D9
 P 4250 1100
-F 0 "D65" H 4200 1180 50  0000 L CNN
+F 0 "D17" H 4200 1180 50  0000 L CNN
 F 1 "D_Small" H 4100 1020 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 4250 1100 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 4250 1100 50  0001 C CNN
 F 3 "" V 4250 1100 50  0000 C CNN
 	1    4250 1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D77
+L D_Small D29
 U 1 1 57479C13
 P 4250 1500
-F 0 "D77" H 4200 1580 50  0000 L CNN
+F 0 "D29" H 4200 1580 50  0000 L CNN
 F 1 "D_Small" H 4100 1420 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 4250 1500 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 4250 1500 50  0001 C CNN
 F 3 "" V 4250 1500 50  0000 C CNN
 	1    4250 1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D89
+L D_Small D41
 U 1 1 57479E4E
 P 4250 1950
-F 0 "D89" H 4200 2030 50  0000 L CNN
+F 0 "D41" H 4200 2030 50  0000 L CNN
 F 1 "D_Small" H 4100 1870 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 4250 1950 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 4250 1950 50  0001 C CNN
 F 3 "" V 4250 1950 50  0000 C CNN
 	1    4250 1950
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D78
+L D_Small D30
 U 1 1 5747B561
 P 5150 1500
-F 0 "D78" H 5100 1580 50  0000 L CNN
+F 0 "D30" H 5100 1580 50  0000 L CNN
 F 1 "D_Small" H 5000 1420 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 5150 1500 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 5150 1500 50  0001 C CNN
 F 3 "" V 5150 1500 50  0000 C CNN
 	1    5150 1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D90
+L D_Small D42
 U 1 1 5747B7C8
 P 5600 1950
-F 0 "D90" H 5550 2030 50  0000 L CNN
+F 0 "D42" H 5550 2030 50  0000 L CNN
 F 1 "D_Small" H 5450 1870 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 5600 1950 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 5600 1950 50  0001 C CNN
 F 3 "" V 5600 1950 50  0000 C CNN
 	1    5600 1950
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D66
+L D_Small D18
 U 1 1 5747BA1E
 P 5150 1100
-F 0 "D66" H 5100 1180 50  0000 L CNN
+F 0 "D18" H 5100 1180 50  0000 L CNN
 F 1 "D_Small" H 5000 1020 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 5150 1100 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 5150 1100 50  0001 C CNN
 F 3 "" V 5150 1100 50  0000 C CNN
 	1    5150 1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D54
+L D_Small D6
 U 1 1 5747BC83
 P 5150 700
-F 0 "D54" H 5100 780 50  0000 L CNN
+F 0 "D6" H 5100 780 50  0000 L CNN
 F 1 "D_Small" H 5000 620 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 5150 700 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 5150 700 50  0001 C CNN
 F 3 "" V 5150 700 50  0000 C CNN
 	1    5150 700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D55
+L D_Small D7
 U 1 1 5747BED3
 P 6650 700
-F 0 "D55" H 6600 780 50  0000 L CNN
+F 0 "D7" H 6600 780 50  0000 L CNN
 F 1 "D_Small" H 6500 620 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 6650 700 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 6650 700 50  0001 C CNN
 F 3 "" V 6650 700 50  0000 C CNN
 	1    6650 700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D67
+L D_Small D19
 U 1 1 5747C12E
 P 6650 1100
-F 0 "D67" H 6600 1180 50  0000 L CNN
+F 0 "D19" H 6600 1180 50  0000 L CNN
 F 1 "D_Small" H 6500 1020 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 6650 1100 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 6650 1100 50  0001 C CNN
 F 3 "" V 6650 1100 50  0000 C CNN
 	1    6650 1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D79
+L D_Small D31
 U 1 1 5747C380
 P 6650 1500
-F 0 "D79" H 6600 1580 50  0000 L CNN
+F 0 "D31" H 6600 1580 50  0000 L CNN
 F 1 "D_Small" H 6500 1420 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 6650 1500 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 6650 1500 50  0001 C CNN
 F 3 "" V 6650 1500 50  0000 C CNN
 	1    6650 1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D80
+L D_Small D32
 U 1 1 5747C5D5
 P 7550 1500
-F 0 "D80" H 7500 1580 50  0000 L CNN
+F 0 "D32" H 7500 1580 50  0000 L CNN
 F 1 "D_Small" H 7400 1420 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 7550 1500 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 7550 1500 50  0001 C CNN
 F 3 "" V 7550 1500 50  0000 C CNN
 	1    7550 1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D68
+L D_Small D20
 U 1 1 5747C839
 P 7550 1100
-F 0 "D68" H 7500 1180 50  0000 L CNN
+F 0 "D20" H 7500 1180 50  0000 L CNN
 F 1 "D_Small" H 7400 1020 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 7550 1100 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 7550 1100 50  0001 C CNN
 F 3 "" V 7550 1100 50  0000 C CNN
 	1    7550 1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D56
+L D_Small D8
 U 1 1 5747CB0B
 P 7550 700
-F 0 "D56" H 7500 780 50  0000 L CNN
+F 0 "D8" H 7500 780 50  0000 L CNN
 F 1 "D_Small" H 7400 620 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 7550 700 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 7550 700 50  0001 C CNN
 F 3 "" V 7550 700 50  0000 C CNN
 	1    7550 700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D91
+L D_Small D43
 U 1 1 5747CD61
 P 7550 1950
-F 0 "D91" H 7500 2030 50  0000 L CNN
+F 0 "D43" H 7500 2030 50  0000 L CNN
 F 1 "D_Small" H 7400 1870 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 7550 1950 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 7550 1950 50  0001 C CNN
 F 3 "" V 7550 1950 50  0000 C CNN
 	1    7550 1950
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D92
+L D_Small D44
 U 1 1 5747CFE2
 P 8450 1950
-F 0 "D92" H 8400 2030 50  0000 L CNN
+F 0 "D44" H 8400 2030 50  0000 L CNN
 F 1 "D_Small" H 8300 1870 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 8450 1950 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 8450 1950 50  0001 C CNN
 F 3 "" V 8450 1950 50  0000 C CNN
 	1    8450 1950
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D81
+L D_Small D33
 U 1 1 5747E406
 P 8450 1500
-F 0 "D81" H 8400 1580 50  0000 L CNN
+F 0 "D33" H 8400 1580 50  0000 L CNN
 F 1 "D_Small" H 8300 1420 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 8450 1500 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 8450 1500 50  0001 C CNN
 F 3 "" V 8450 1500 50  0000 C CNN
 	1    8450 1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D69
+L D_Small D21
 U 1 1 5747E66F
 P 8450 1100
-F 0 "D69" H 8400 1180 50  0000 L CNN
+F 0 "D21" H 8400 1180 50  0000 L CNN
 F 1 "D_Small" H 8300 1020 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 8450 1100 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 8450 1100 50  0001 C CNN
 F 3 "" V 8450 1100 50  0000 C CNN
 	1    8450 1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D57
+L D_Small D9
 U 1 1 5747E8D5
 P 8450 700
-F 0 "D57" H 8400 780 50  0000 L CNN
+F 0 "D9" H 8400 780 50  0000 L CNN
 F 1 "D_Small" H 8300 620 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 8450 700 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 8450 700 50  0001 C CNN
 F 3 "" V 8450 700 50  0000 C CNN
 	1    8450 700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D58
+L D_Small D10
 U 1 1 5747EB3E
 P 9350 700
-F 0 "D58" H 9300 780 50  0000 L CNN
+F 0 "D10" H 9300 780 50  0000 L CNN
 F 1 "D_Small" H 9200 620 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 9350 700 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 9350 700 50  0001 C CNN
 F 3 "" V 9350 700 50  0000 C CNN
 	1    9350 700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D70
+L D_Small D22
 U 1 1 5747EDC6
 P 9350 1100
-F 0 "D70" H 9300 1180 50  0000 L CNN
+F 0 "D22" H 9300 1180 50  0000 L CNN
 F 1 "D_Small" H 9200 1020 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 9350 1100 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 9350 1100 50  0001 C CNN
 F 3 "" V 9350 1100 50  0000 C CNN
 	1    9350 1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D82
+L D_Small D34
 U 1 1 5747F049
 P 9350 1500
-F 0 "D82" H 9300 1580 50  0000 L CNN
+F 0 "D34" H 9300 1580 50  0000 L CNN
 F 1 "D_Small" H 9200 1420 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 9350 1500 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 9350 1500 50  0001 C CNN
 F 3 "" V 9350 1500 50  0000 C CNN
 	1    9350 1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D93
+L D_Small D45
 U 1 1 5747F2BB
 P 9350 1950
-F 0 "D93" H 9300 2030 50  0000 L CNN
+F 0 "D45" H 9300 2030 50  0000 L CNN
 F 1 "D_Small" H 9200 1870 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 9350 1950 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 9350 1950 50  0001 C CNN
 F 3 "" V 9350 1950 50  0000 C CNN
 	1    9350 1950
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D94
+L D_Small D46
 U 1 1 5747F536
 P 10250 1950
-F 0 "D94" H 10200 2030 50  0000 L CNN
+F 0 "D46" H 10200 2030 50  0000 L CNN
 F 1 "D_Small" H 10100 1870 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 10250 1950 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 10250 1950 50  0001 C CNN
 F 3 "" V 10250 1950 50  0000 C CNN
 	1    10250 1950
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D83
+L D_Small D35
 U 1 1 5747F7C4
 P 10250 1500
-F 0 "D83" H 10200 1580 50  0000 L CNN
+F 0 "D35" H 10200 1580 50  0000 L CNN
 F 1 "D_Small" H 10100 1420 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 10250 1500 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 10250 1500 50  0001 C CNN
 F 3 "" V 10250 1500 50  0000 C CNN
 	1    10250 1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D71
+L D_Small D23
 U 1 1 5747FA43
 P 10250 1100
-F 0 "D71" H 10200 1180 50  0000 L CNN
+F 0 "D23" H 10200 1180 50  0000 L CNN
 F 1 "D_Small" H 10100 1020 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 10250 1100 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 10250 1100 50  0001 C CNN
 F 3 "" V 10250 1100 50  0000 C CNN
 	1    10250 1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D59
+L D_Small D11
 U 1 1 5747FCC1
 P 10250 700
-F 0 "D59" H 10200 780 50  0000 L CNN
+F 0 "D11" H 10200 780 50  0000 L CNN
 F 1 "D_Small" H 10100 620 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 10250 700 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 10250 700 50  0001 C CNN
 F 3 "" V 10250 700 50  0000 C CNN
 	1    10250 700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D60
+L D_Small D12
 U 1 1 57480962
 P 11150 700
-F 0 "D60" H 11100 780 50  0000 L CNN
+F 0 "D12" H 11100 780 50  0000 L CNN
 F 1 "D_Small" H 11000 620 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 11150 700 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 11150 700 50  0001 C CNN
 F 3 "" V 11150 700 50  0000 C CNN
 	1    11150 700 
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D72
+L D_Small D24
 U 1 1 57480C0A
 P 11150 1100
-F 0 "D72" H 11100 1180 50  0000 L CNN
+F 0 "D24" H 11100 1180 50  0000 L CNN
 F 1 "D_Small" H 11000 1020 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 11150 1100 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 11150 1100 50  0001 C CNN
 F 3 "" V 11150 1100 50  0000 C CNN
 	1    11150 1100
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D84
+L D_Small D36
 U 1 1 57480E9D
 P 11150 1500
-F 0 "D84" H 11100 1580 50  0000 L CNN
+F 0 "D36" H 11100 1580 50  0000 L CNN
 F 1 "D_Small" H 11000 1420 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 11150 1500 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 11150 1500 50  0001 C CNN
 F 3 "" V 11150 1500 50  0000 C CNN
 	1    11150 1500
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D95
+L D_Small D47
 U 1 1 57481127
 P 11150 1950
-F 0 "D95" H 11100 2030 50  0000 L CNN
+F 0 "D47" H 11100 2030 50  0000 L CNN
 F 1 "D_Small" H 11000 1870 50  0000 L CNN
-F 2 "Diodes_SMD:SOD-123" V 11150 1950 50  0001 C CNN
+F 2 "lib.pretty:SOD-123" V 11150 1950 50  0001 C CNN
 F 3 "" V 11150 1950 50  0000 C CNN
 	1    11150 1950
 	0    -1   -1   0   
 $EndComp
-Text Label 2050 5700 0    60   ~ 0
-B7
-Text Label 1650 5700 2    60   ~ 0
-B8
-Text Label 2950 5700 0    60   ~ 0
-B8
-Text Label 2550 5700 2    60   ~ 0
-B7
-Text Label 2050 5900 0    60   ~ 0
-B7
-Text Label 1650 5900 2    60   ~ 0
-B9
-NoConn ~ -1150 5650
-NoConn ~ -1250 5650
-NoConn ~ -1350 5650
-Connection ~ -750 5750
-Connection ~ -650 5550
-Connection ~ -750 5650
-Connection ~ -850 5650
-Connection ~ -850 5550
-Connection ~ -950 5450
-Connection ~ -950 5550
-Connection ~ -950 5650
-Connection ~ -950 5750
-Connection ~ -850 5750
-Connection ~ -650 5750
-Connection ~ -550 5650
-Connection ~ -550 5550
-Connection ~ -750 5450
-Connection ~ -650 5450
-Connection ~ -550 5450
-Connection ~ -550 5150
-Connection ~ -550 5250
-Connection ~ -550 5350
-Connection ~ -650 5350
-Connection ~ -650 5250
-Connection ~ -650 5150
-Connection ~ -750 5150
-Connection ~ -750 5250
-Connection ~ -750 5350
-Connection ~ -850 5350
-Connection ~ -850 5250
-Connection ~ -850 5150
-Connection ~ -950 5250
-Connection ~ -950 5150
-Connection ~ -1050 5150
-Connection ~ -1050 5350
-Connection ~ -1050 5450
-Connection ~ -1050 5550
-Connection ~ -1050 5650
-Connection ~ -1050 5750
-Connection ~ -1150 5750
-Connection ~ -1150 5550
-Connection ~ -1150 5450
-Connection ~ -1150 5250
-Connection ~ -1150 5350
-Connection ~ -1250 5350
-Connection ~ -1250 5450
-Connection ~ -1250 5550
-Connection ~ -1250 5750
-Connection ~ -1350 5750
-Connection ~ -1350 5550
-Connection ~ -1350 5450
-Connection ~ -1350 5350
-Connection ~ -1350 5250
-Connection ~ -1250 5250
-Connection ~ -1250 5150
-Connection ~ -1350 5150
-Connection ~ -1350 5050
-Connection ~ -1150 5050
-Connection ~ -1050 5050
-Connection ~ -950 5050
-Connection ~ -850 5050
-Connection ~ -750 5050
-Connection ~ -650 5050
-Connection ~ -550 5050
-Connection ~ -550 4950
-Connection ~ -650 4950
-Connection ~ -750 4950
-Connection ~ -850 4950
-Connection ~ -950 4950
-Connection ~ -1050 4950
-Connection ~ -1150 4950
-Connection ~ -1250 4950
-Wire Notes Line
-	-800 5850 -800 4900
-Wire Notes Line
-	-1300 4900 -1300 5850
-Wire Notes Line
-	-1400 5700 -450 5700
-Wire Notes Line
-	-450 5100 -1400 5100
-Wire Notes Line
-	-500 4900 -500 5850
-Wire Notes Line
-	-600 5850 -600 4900
-Wire Notes Line
-	-700 4900 -700 5850
-Wire Notes Line
-	-900 4900 -900 5850
-Wire Notes Line
-	-1000 5850 -1000 4900
-Wire Notes Line
-	-1100 4900 -1100 5850
-Wire Notes Line
-	-1200 5850 -1200 4900
-Wire Notes Line
-	-450 5800 -1400 5800
-Wire Notes Line
-	-450 5600 -1400 5600
-Wire Notes Line
-	-1400 5500 -450 5500
-Wire Notes Line
-	-450 5400 -1400 5400
-Wire Notes Line
-	-450 5300 -1400 5300
-Wire Notes Line
-	-450 5200 -1400 5200
-Wire Notes Line
-	-450 5000 -1400 5000
-Connection ~ -750 3500
-Connection ~ -850 3500
-Connection ~ -850 3400
-Connection ~ -950 3300
-Connection ~ -950 3400
-Connection ~ -950 3500
-Connection ~ -950 3600
-Connection ~ -850 3600
-Connection ~ -750 3600
-Connection ~ -650 3600
-Connection ~ -550 3500
-Connection ~ -550 3400
-Connection ~ -650 3400
-Connection ~ -750 3300
-Connection ~ -650 3300
-Connection ~ -550 3300
-Connection ~ -550 3000
-Connection ~ -550 3100
-Connection ~ -550 3200
-Connection ~ -650 3200
-Connection ~ -650 3100
-Connection ~ -650 3000
-Connection ~ -750 3000
-Connection ~ -750 3100
-Connection ~ -750 3200
-Connection ~ -850 3200
-Connection ~ -850 3100
-Connection ~ -850 3000
-Connection ~ -950 3100
-Connection ~ -950 3000
-Connection ~ -1050 3000
-Connection ~ -1050 3200
-Connection ~ -1050 3300
-Connection ~ -1050 3400
-Connection ~ -1050 3500
-Connection ~ -1050 3600
-Connection ~ -1150 3600
-Connection ~ -1150 3500
-Connection ~ -1150 3400
-Connection ~ -1150 3300
-Connection ~ -1150 3100
-Connection ~ -1150 3200
-Connection ~ -1250 3200
-Connection ~ -1250 3300
-Connection ~ -1250 3400
-Connection ~ -1250 3500
-Connection ~ -1250 3600
-Connection ~ -1350 3600
-Connection ~ -1350 3500
-Connection ~ -1350 3400
-Connection ~ -1350 3300
-Connection ~ -1350 3200
-Connection ~ -1350 3100
-Connection ~ -1250 3100
-Connection ~ -1250 3000
-Connection ~ -1350 3000
-Connection ~ -1350 2900
-Connection ~ -1150 2900
-Connection ~ -1050 2900
-Connection ~ -950 2900
-Connection ~ -850 2900
-Connection ~ -750 2900
-Connection ~ -650 2900
-Connection ~ -550 2900
-Connection ~ -550 2800
-Connection ~ -650 2800
-Connection ~ -750 2800
-Connection ~ -850 2800
-Connection ~ -950 2800
-Connection ~ -1050 2800
-Connection ~ -1150 2800
-Connection ~ -1250 2800
-Wire Notes Line
-	-800 3700 -800 2750
-Wire Notes Line
-	-1300 2750 -1300 3700
-Wire Notes Line
-	-1400 3550 -450 3550
-Wire Notes Line
-	-450 2950 -1400 2950
-Wire Notes Line
-	-500 2750 -500 3700
-Wire Notes Line
-	-600 3700 -600 2750
-Wire Notes Line
-	-700 2750 -700 3700
-Wire Notes Line
-	-900 2750 -900 3700
-Wire Notes Line
-	-1000 3700 -1000 2750
-Wire Notes Line
-	-1100 2750 -1100 3700
-Wire Notes Line
-	-1200 3700 -1200 2750
-Wire Notes Line
-	-450 3650 -1400 3650
-Wire Notes Line
-	-450 3450 -1400 3450
-Wire Notes Line
-	-1400 3350 -450 3350
-Wire Notes Line
-	-450 3250 -1400 3250
-Wire Notes Line
-	-450 3150 -1400 3150
-Wire Notes Line
-	-450 3050 -1400 3050
-Wire Notes Line
-	-450 2850 -1400 2850
 Text Label 6050 2200 0    60   ~ 0
 Col6
 Text Label 6950 2200 0    60   ~ 0
@@ -2730,4 +1261,989 @@ Connection ~ 8450 1200
 Connection ~ 7550 1200
 Connection ~ 8450 800 
 Connection ~ 7550 800 
+$Sheet
+S -1550 300  1050 2500
+U 573CCE5B
+F0 "MCU" 60
+F1 "MCU.sch" 60
+F2 "SW1" B L -1550 400 60 
+F3 "SW2" B L -1550 500 60 
+F4 "SW3" B L -1550 600 60 
+F5 "SW4" B L -1550 700 60 
+F6 "SW5" B L -1550 800 60 
+F7 "SW6" B L -1550 900 60 
+F8 "SW7" B L -1550 1000 60 
+F9 "SW8" B L -1550 1100 60 
+F10 "SW9" B L -1550 1200 60 
+F11 "SW10" B L -1550 1300 60 
+F12 "SW11" B L -1550 1400 60 
+F13 "SW12" B L -1550 1500 60 
+F14 "CS1" B L -1550 1600 60 
+F15 "CS2" B L -1550 1700 60 
+F16 "CS3" B L -1550 1800 60 
+F17 "CS4" B L -1550 1900 60 
+F18 "CS5" B L -1550 2000 60 
+F19 "CS6" B L -1550 2100 60 
+F20 "CS7" B L -1550 2200 60 
+F21 "CS8" B L -1550 2300 60 
+F22 "CS9" B L -1550 2400 60 
+F23 "CS10" B L -1550 2500 60 
+F24 "CS11" B L -1550 2600 60 
+F25 "CS12" B L -1550 2700 60 
+F26 "PTD4" B R -500 600 60 
+F27 "PTD5" B R -500 1400 60 
+F28 "PTD6" B R -500 1300 60 
+F29 "PTD7" B R -500 1200 60 
+F30 "PTD1" B R -500 500 60 
+F31 "PTD0" B R -500 400 60 
+F32 "PTC11" B R -500 700 60 
+F33 "PTC10" B R -500 1100 60 
+F34 "PTC9" B R -500 800 60 
+F35 "PTC8" B R -500 900 60 
+F36 "PTC7" B R -500 1000 60 
+F37 "PTB2" B R -500 1600 60 
+F38 "PTB18" B R -500 1500 60 
+F39 "PTB3" B R -500 1700 60 
+$EndSheet
+Text Label -1550 1600 2    60   ~ 0
+CS1
+Text Label -1550 1700 2    60   ~ 0
+CS2
+Text Label -1550 1800 2    60   ~ 0
+CS3
+Text Label -1550 1900 2    60   ~ 0
+CS4
+Text Label -1550 2000 2    60   ~ 0
+CS5
+Text Label -1550 2100 2    60   ~ 0
+CS6
+Text Label -1550 2200 2    60   ~ 0
+CS7
+Text Label -1550 2300 2    60   ~ 0
+CS8
+Text Label -1550 2400 2    60   ~ 0
+CS9
+Text Label -1550 2500 2    60   ~ 0
+CS10
+Text Label -1550 2600 2    60   ~ 0
+CS11
+Text Label -1550 2700 2    60   ~ 0
+CS12
+Text Label -1550 400  2    60   ~ 0
+SW1
+Text Label -1550 500  2    60   ~ 0
+SW2
+Text Label -1550 600  2    60   ~ 0
+SW3
+Text Label -1550 700  2    60   ~ 0
+SW4
+Text Label -1550 800  2    60   ~ 0
+SW5
+Text Label -1550 900  2    60   ~ 0
+SW6
+Text Label -1550 1000 2    60   ~ 0
+SW7
+Text Label -1550 1100 2    60   ~ 0
+SW8
+Text Label -1550 1200 2    60   ~ 0
+SW9
+Text Label -1550 1300 2    60   ~ 0
+SW10
+Text Label -1550 1400 2    60   ~ 0
+SW11
+Text Label -1550 1500 2    60   ~ 0
+SW12
+$Comp
+L Led_RGB_CA LED1
+U 1 1 578961EF
+P 900 3100
+F 0 "LED1" H 900 3450 50  0000 C CNN
+F 1 "Led_RGB_CA" H 900 2750 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 855 3050 50  0001 C CNN
+F 3 "" H 855 3050 50  0000 C CNN
+	1    900  3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED13
+U 1 1 578961F5
+P 900 3900
+F 0 "LED13" H 900 4250 50  0000 C CNN
+F 1 "Led_RGB_CA" H 900 3550 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 855 3850 50  0001 C CNN
+F 3 "" H 855 3850 50  0000 C CNN
+	1    900  3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED25
+U 1 1 578961FB
+P 900 4700
+F 0 "LED25" H 900 5050 50  0000 C CNN
+F 1 "Led_RGB_CA" H 900 4350 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 855 4650 50  0001 C CNN
+F 3 "" H 855 4650 50  0000 C CNN
+	1    900  4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED37
+U 1 1 57896201
+P 900 5500
+F 0 "LED37" H 900 5850 50  0000 C CNN
+F 1 "Led_RGB_CA" H 900 5150 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 855 5450 50  0001 C CNN
+F 3 "" H 855 5450 50  0000 C CNN
+	1    900  5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED2
+U 1 1 5789AE23
+P 1800 3100
+F 0 "LED2" H 1800 3450 50  0000 C CNN
+F 1 "Led_RGB_CA" H 1800 2750 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 1755 3050 50  0001 C CNN
+F 3 "" H 1755 3050 50  0000 C CNN
+	1    1800 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED14
+U 1 1 5789AE29
+P 1800 3900
+F 0 "LED14" H 1800 4250 50  0000 C CNN
+F 1 "Led_RGB_CA" H 1800 3550 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 1755 3850 50  0001 C CNN
+F 3 "" H 1755 3850 50  0000 C CNN
+	1    1800 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED26
+U 1 1 5789AE2F
+P 1800 4700
+F 0 "LED26" H 1800 5050 50  0000 C CNN
+F 1 "Led_RGB_CA" H 1800 4350 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 1755 4650 50  0001 C CNN
+F 3 "" H 1755 4650 50  0000 C CNN
+	1    1800 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED38
+U 1 1 5789AE35
+P 1800 5500
+F 0 "LED38" H 1800 5850 50  0000 C CNN
+F 1 "Led_RGB_CA" H 1800 5150 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 1755 5450 50  0001 C CNN
+F 3 "" H 1755 5450 50  0000 C CNN
+	1    1800 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED3
+U 1 1 5789AE3B
+P 2700 3100
+F 0 "LED3" H 2700 3450 50  0000 C CNN
+F 1 "Led_RGB_CA" H 2700 2750 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 2655 3050 50  0001 C CNN
+F 3 "" H 2655 3050 50  0000 C CNN
+	1    2700 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED15
+U 1 1 5789AE41
+P 2700 3900
+F 0 "LED15" H 2700 4250 50  0000 C CNN
+F 1 "Led_RGB_CA" H 2700 3550 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 2655 3850 50  0001 C CNN
+F 3 "" H 2655 3850 50  0000 C CNN
+	1    2700 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED27
+U 1 1 5789AE47
+P 2700 4700
+F 0 "LED27" H 2700 5050 50  0000 C CNN
+F 1 "Led_RGB_CA" H 2700 4350 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 2655 4650 50  0001 C CNN
+F 3 "" H 2655 4650 50  0000 C CNN
+	1    2700 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED39
+U 1 1 5789AE4D
+P 2700 5500
+F 0 "LED39" H 2700 5850 50  0000 C CNN
+F 1 "Led_RGB_CA" H 2700 5150 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 2655 5450 50  0001 C CNN
+F 3 "" H 2655 5450 50  0000 C CNN
+	1    2700 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED4
+U 1 1 578A1E17
+P 3600 3100
+F 0 "LED4" H 3600 3450 50  0000 C CNN
+F 1 "Led_RGB_CA" H 3600 2750 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 3555 3050 50  0001 C CNN
+F 3 "" H 3555 3050 50  0000 C CNN
+	1    3600 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED16
+U 1 1 578A1E1D
+P 3600 3900
+F 0 "LED16" H 3600 4250 50  0000 C CNN
+F 1 "Led_RGB_CA" H 3600 3550 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 3555 3850 50  0001 C CNN
+F 3 "" H 3555 3850 50  0000 C CNN
+	1    3600 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED28
+U 1 1 578A1E23
+P 3600 4700
+F 0 "LED28" H 3600 5050 50  0000 C CNN
+F 1 "Led_RGB_CA" H 3600 4350 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 3555 4650 50  0001 C CNN
+F 3 "" H 3555 4650 50  0000 C CNN
+	1    3600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED40
+U 1 1 578A1E29
+P 3600 5500
+F 0 "LED40" H 3600 5850 50  0000 C CNN
+F 1 "Led_RGB_CA" H 3600 5150 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 3555 5450 50  0001 C CNN
+F 3 "" H 3555 5450 50  0000 C CNN
+	1    3600 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED5
+U 1 1 578A1E2F
+P 4500 3100
+F 0 "LED5" H 4500 3450 50  0000 C CNN
+F 1 "Led_RGB_CA" H 4500 2750 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 4455 3050 50  0001 C CNN
+F 3 "" H 4455 3050 50  0000 C CNN
+	1    4500 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED17
+U 1 1 578A1E35
+P 4500 3900
+F 0 "LED17" H 4500 4250 50  0000 C CNN
+F 1 "Led_RGB_CA" H 4500 3550 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 4455 3850 50  0001 C CNN
+F 3 "" H 4455 3850 50  0000 C CNN
+	1    4500 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED29
+U 1 1 578A1E3B
+P 4500 4700
+F 0 "LED29" H 4500 5050 50  0000 C CNN
+F 1 "Led_RGB_CA" H 4500 4350 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 4455 4650 50  0001 C CNN
+F 3 "" H 4455 4650 50  0000 C CNN
+	1    4500 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED41
+U 1 1 578A1E41
+P 4500 5500
+F 0 "LED41" H 4500 5850 50  0000 C CNN
+F 1 "Led_RGB_CA" H 4500 5150 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 4455 5450 50  0001 C CNN
+F 3 "" H 4455 5450 50  0000 C CNN
+	1    4500 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED6
+U 1 1 578A1E47
+P 5400 3100
+F 0 "LED6" H 5400 3450 50  0000 C CNN
+F 1 "Led_RGB_CA" H 5400 2750 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 5355 3050 50  0001 C CNN
+F 3 "" H 5355 3050 50  0000 C CNN
+	1    5400 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED18
+U 1 1 578A1E4D
+P 5400 3900
+F 0 "LED18" H 5400 4250 50  0000 C CNN
+F 1 "Led_RGB_CA" H 5400 3550 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 5355 3850 50  0001 C CNN
+F 3 "" H 5355 3850 50  0000 C CNN
+	1    5400 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED30
+U 1 1 578A1E53
+P 5400 4700
+F 0 "LED30" H 5400 5050 50  0000 C CNN
+F 1 "Led_RGB_CA" H 5400 4350 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 5355 4650 50  0001 C CNN
+F 3 "" H 5355 4650 50  0000 C CNN
+	1    5400 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED42
+U 1 1 578A1E59
+P 5900 5500
+F 0 "LED42" H 5900 5850 50  0000 C CNN
+F 1 "Led_RGB_CA" H 5900 5150 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 5855 5450 50  0001 C CNN
+F 3 "" H 5855 5450 50  0000 C CNN
+	1    5900 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED7
+U 1 1 578A1E5F
+P 6300 3100
+F 0 "LED7" H 6300 3450 50  0000 C CNN
+F 1 "Led_RGB_CA" H 6300 2750 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 6255 3050 50  0001 C CNN
+F 3 "" H 6255 3050 50  0000 C CNN
+	1    6300 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED19
+U 1 1 578A1E65
+P 6300 3900
+F 0 "LED19" H 6300 4250 50  0000 C CNN
+F 1 "Led_RGB_CA" H 6300 3550 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 6255 3850 50  0001 C CNN
+F 3 "" H 6255 3850 50  0000 C CNN
+	1    6300 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED31
+U 1 1 578A1E6B
+P 6300 4700
+F 0 "LED31" H 6300 5050 50  0000 C CNN
+F 1 "Led_RGB_CA" H 6300 4350 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 6255 4650 50  0001 C CNN
+F 3 "" H 6255 4650 50  0000 C CNN
+	1    6300 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED8
+U 1 1 578AF46D
+P 7200 3100
+F 0 "LED8" H 7200 3450 50  0000 C CNN
+F 1 "Led_RGB_CA" H 7200 2750 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 7155 3050 50  0001 C CNN
+F 3 "" H 7155 3050 50  0000 C CNN
+	1    7200 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED20
+U 1 1 578AF473
+P 7200 3900
+F 0 "LED20" H 7200 4250 50  0000 C CNN
+F 1 "Led_RGB_CA" H 7200 3550 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 7155 3850 50  0001 C CNN
+F 3 "" H 7155 3850 50  0000 C CNN
+	1    7200 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED32
+U 1 1 578AF479
+P 7200 4700
+F 0 "LED32" H 7200 5050 50  0000 C CNN
+F 1 "Led_RGB_CA" H 7200 4350 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 7155 4650 50  0001 C CNN
+F 3 "" H 7155 4650 50  0000 C CNN
+	1    7200 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED43
+U 1 1 578AF47F
+P 7200 5500
+F 0 "LED43" H 7200 5850 50  0000 C CNN
+F 1 "Led_RGB_CA" H 7200 5150 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 7155 5450 50  0001 C CNN
+F 3 "" H 7155 5450 50  0000 C CNN
+	1    7200 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED9
+U 1 1 578AF485
+P 8100 3100
+F 0 "LED9" H 8100 3450 50  0000 C CNN
+F 1 "Led_RGB_CA" H 8100 2750 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 8055 3050 50  0001 C CNN
+F 3 "" H 8055 3050 50  0000 C CNN
+	1    8100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED21
+U 1 1 578AF48B
+P 8100 3900
+F 0 "LED21" H 8100 4250 50  0000 C CNN
+F 1 "Led_RGB_CA" H 8100 3550 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 8055 3850 50  0001 C CNN
+F 3 "" H 8055 3850 50  0000 C CNN
+	1    8100 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED33
+U 1 1 578AF491
+P 8100 4700
+F 0 "LED33" H 8100 5050 50  0000 C CNN
+F 1 "Led_RGB_CA" H 8100 4350 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 8055 4650 50  0001 C CNN
+F 3 "" H 8055 4650 50  0000 C CNN
+	1    8100 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED44
+U 1 1 578AF497
+P 8100 5500
+F 0 "LED44" H 8100 5850 50  0000 C CNN
+F 1 "Led_RGB_CA" H 8100 5150 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 8055 5450 50  0001 C CNN
+F 3 "" H 8055 5450 50  0000 C CNN
+	1    8100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED10
+U 1 1 578AF49D
+P 9000 3100
+F 0 "LED10" H 9000 3450 50  0000 C CNN
+F 1 "Led_RGB_CA" H 9000 2750 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 8955 3050 50  0001 C CNN
+F 3 "" H 8955 3050 50  0000 C CNN
+	1    9000 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED22
+U 1 1 578AF4A3
+P 9000 3900
+F 0 "LED22" H 9000 4250 50  0000 C CNN
+F 1 "Led_RGB_CA" H 9000 3550 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 8955 3850 50  0001 C CNN
+F 3 "" H 8955 3850 50  0000 C CNN
+	1    9000 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED34
+U 1 1 578AF4A9
+P 9000 4700
+F 0 "LED34" H 9000 5050 50  0000 C CNN
+F 1 "Led_RGB_CA" H 9000 4350 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 8955 4650 50  0001 C CNN
+F 3 "" H 8955 4650 50  0000 C CNN
+	1    9000 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED45
+U 1 1 578AF4AF
+P 9000 5500
+F 0 "LED45" H 9000 5850 50  0000 C CNN
+F 1 "Led_RGB_CA" H 9000 5150 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 8955 5450 50  0001 C CNN
+F 3 "" H 8955 5450 50  0000 C CNN
+	1    9000 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED11
+U 1 1 578AF4B5
+P 9900 3100
+F 0 "LED11" H 9900 3450 50  0000 C CNN
+F 1 "Led_RGB_CA" H 9900 2750 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 9855 3050 50  0001 C CNN
+F 3 "" H 9855 3050 50  0000 C CNN
+	1    9900 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED23
+U 1 1 578AF4BB
+P 9900 3900
+F 0 "LED23" H 9900 4250 50  0000 C CNN
+F 1 "Led_RGB_CA" H 9900 3550 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 9855 3850 50  0001 C CNN
+F 3 "" H 9855 3850 50  0000 C CNN
+	1    9900 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED35
+U 1 1 578AF4C1
+P 9900 4700
+F 0 "LED35" H 9900 5050 50  0000 C CNN
+F 1 "Led_RGB_CA" H 9900 4350 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 9855 4650 50  0001 C CNN
+F 3 "" H 9855 4650 50  0000 C CNN
+	1    9900 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED46
+U 1 1 578AF4C7
+P 9900 5500
+F 0 "LED46" H 9900 5850 50  0000 C CNN
+F 1 "Led_RGB_CA" H 9900 5150 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 9855 5450 50  0001 C CNN
+F 3 "" H 9855 5450 50  0000 C CNN
+	1    9900 5500
+	1    0    0    -1  
+$EndComp
+Text Label 4700 3100 0    60   ~ 0
+CS1
+Text Label 5600 3100 0    60   ~ 0
+CS2
+Text Label 6500 3100 0    60   ~ 0
+CS3
+Text Label 7400 3100 0    60   ~ 0
+CS4
+Text Label 8300 3100 0    60   ~ 0
+CS5
+Text Label 9200 3100 0    60   ~ 0
+CS6
+Text Label 10100 3900 0    60   ~ 0
+CS7
+Text Label 11000 3100 0    60   ~ 0
+CS8
+Text Label 1100 3100 0    60   ~ 0
+CS9
+Text Label 2000 3100 0    60   ~ 0
+CS10
+Text Label 2900 3100 0    60   ~ 0
+CS11
+Text Label 3800 3100 0    60   ~ 0
+CS12
+Text Label 4700 3900 0    60   ~ 0
+CS1
+Text Label 5600 3900 0    60   ~ 0
+CS2
+Text Label 6500 3900 0    60   ~ 0
+CS3
+Text Label 7400 3900 0    60   ~ 0
+CS4
+Text Label 8300 3900 0    60   ~ 0
+CS5
+Text Label 9200 3900 0    60   ~ 0
+CS6
+Text Label 10100 4700 0    60   ~ 0
+CS7
+Text Label 11000 3900 0    60   ~ 0
+CS8
+Text Label 1100 3900 0    60   ~ 0
+CS9
+Text Label 2000 3900 0    60   ~ 0
+CS10
+Text Label 2900 3900 0    60   ~ 0
+CS11
+Text Label 3800 3900 0    60   ~ 0
+CS12
+$Comp
+L Led_RGB_CA LED47
+U 1 1 578AF4DF
+P 10800 5500
+F 0 "LED47" H 10800 5850 50  0000 C CNN
+F 1 "Led_RGB_CA" H 10800 5150 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 10755 5450 50  0001 C CNN
+F 3 "" H 10755 5450 50  0000 C CNN
+	1    10800 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED36
+U 1 1 578AF4D9
+P 10800 4700
+F 0 "LED36" H 10800 5050 50  0000 C CNN
+F 1 "Led_RGB_CA" H 10800 4350 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 10755 4650 50  0001 C CNN
+F 3 "" H 10755 4650 50  0000 C CNN
+	1    10800 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED24
+U 1 1 578AF4D3
+P 10800 3900
+F 0 "LED24" H 10800 4250 50  0000 C CNN
+F 1 "Led_RGB_CA" H 10800 3550 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 10755 3850 50  0001 C CNN
+F 3 "" H 10755 3850 50  0000 C CNN
+	1    10800 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Led_RGB_CA LED12
+U 1 1 578AF4CD
+P 10800 3100
+F 0 "LED12" H 10800 3450 50  0000 C CNN
+F 1 "Led_RGB_CA" H 10800 2750 50  0000 C CNN
+F 2 "lib.pretty:RGB-0606" H 10755 3050 50  0001 C CNN
+F 3 "" H 10755 3050 50  0000 C CNN
+	1    10800 3100
+	1    0    0    -1  
+$EndComp
+Text Label 4700 5500 0    60   ~ 0
+CS1
+Text Label 6100 5500 0    60   ~ 0
+CS2
+Text Label 7400 5500 0    60   ~ 0
+CS4
+Text Label 8300 5500 0    60   ~ 0
+CS5
+Text Label 11000 5500 0    60   ~ 0
+CS8
+Text Label 1100 5500 0    60   ~ 0
+CS9
+Text Label 2000 5500 0    60   ~ 0
+CS10
+Text Label 2900 5500 0    60   ~ 0
+CS11
+Text Label 3800 5500 0    60   ~ 0
+CS12
+Text Label 1100 4700 0    60   ~ 0
+CS9
+Text Label 2000 4700 0    60   ~ 0
+CS10
+Text Label 2900 4700 0    60   ~ 0
+CS11
+Text Label 3800 4700 0    60   ~ 0
+CS12
+Text Label 8300 4700 0    60   ~ 0
+CS5
+Text Label 9200 4700 0    60   ~ 0
+CS6
+Text Label 10100 5500 0    60   ~ 0
+CS7
+Text Label 11000 4700 0    60   ~ 0
+CS8
+Text Label 4700 4700 0    60   ~ 0
+CS1
+Text Label 5600 4700 0    60   ~ 0
+CS2
+Text Label 6500 4700 0    60   ~ 0
+CS3
+Text Label 700  3300 2    60   ~ 0
+SW3
+Text Label 700  3100 2    60   ~ 0
+SW2
+Text Label 700  2900 2    60   ~ 0
+SW1
+Text Label 1600 3300 2    60   ~ 0
+SW3
+Text Label 1600 3100 2    60   ~ 0
+SW2
+Text Label 1600 2900 2    60   ~ 0
+SW1
+Text Label 2500 3300 2    60   ~ 0
+SW3
+Text Label 2500 3100 2    60   ~ 0
+SW2
+Text Label 2500 2900 2    60   ~ 0
+SW1
+Text Label 3400 3300 2    60   ~ 0
+SW3
+Text Label 3400 3100 2    60   ~ 0
+SW2
+Text Label 3400 2900 2    60   ~ 0
+SW1
+Text Label 7900 3300 2    60   ~ 0
+SW3
+Text Label 7900 3100 2    60   ~ 0
+SW2
+Text Label 7900 2900 2    60   ~ 0
+SW1
+Text Label 8800 3300 2    60   ~ 0
+SW3
+Text Label 8800 3100 2    60   ~ 0
+SW2
+Text Label 8800 2900 2    60   ~ 0
+SW1
+Text Label 9700 3300 2    60   ~ 0
+SW3
+Text Label 9700 3100 2    60   ~ 0
+SW2
+Text Label 9700 2900 2    60   ~ 0
+SW1
+Text Label 10600 3300 2    60   ~ 0
+SW3
+Text Label 10600 3100 2    60   ~ 0
+SW2
+Text Label 10600 2900 2    60   ~ 0
+SW1
+Text Label 4300 3300 2    60   ~ 0
+SW3
+Text Label 4300 3100 2    60   ~ 0
+SW2
+Text Label 4300 2900 2    60   ~ 0
+SW1
+Text Label 5200 3300 2    60   ~ 0
+SW3
+Text Label 5200 3100 2    60   ~ 0
+SW2
+Text Label 5200 2900 2    60   ~ 0
+SW1
+Text Label 6100 3300 2    60   ~ 0
+SW3
+Text Label 6100 3100 2    60   ~ 0
+SW2
+Text Label 6100 2900 2    60   ~ 0
+SW1
+Text Label 7000 3300 2    60   ~ 0
+SW3
+Text Label 7000 3100 2    60   ~ 0
+SW2
+Text Label 7000 2900 2    60   ~ 0
+SW1
+Text Label 700  3700 2    60   ~ 0
+SW4
+Text Label 700  3900 2    60   ~ 0
+SW5
+Text Label 700  4100 2    60   ~ 0
+SW6
+Text Label 700  4500 2    60   ~ 0
+SW7
+Text Label 700  4700 2    60   ~ 0
+SW8
+Text Label 700  4900 2    60   ~ 0
+SW9
+Text Label 700  5300 2    60   ~ 0
+SW10
+Text Label 700  5500 2    60   ~ 0
+SW11
+Text Label 700  5700 2    60   ~ 0
+SW12
+Text Label 1600 3700 2    60   ~ 0
+SW4
+Text Label 1600 3900 2    60   ~ 0
+SW5
+Text Label 1600 4100 2    60   ~ 0
+SW6
+Text Label 2500 3700 2    60   ~ 0
+SW4
+Text Label 2500 3900 2    60   ~ 0
+SW5
+Text Label 2500 4100 2    60   ~ 0
+SW6
+Text Label 3400 3700 2    60   ~ 0
+SW4
+Text Label 3400 3900 2    60   ~ 0
+SW5
+Text Label 3400 4100 2    60   ~ 0
+SW6
+Text Label 4300 3700 2    60   ~ 0
+SW4
+Text Label 4300 3900 2    60   ~ 0
+SW5
+Text Label 4300 4100 2    60   ~ 0
+SW6
+Text Label 5200 3700 2    60   ~ 0
+SW4
+Text Label 5200 3900 2    60   ~ 0
+SW5
+Text Label 5200 4100 2    60   ~ 0
+SW6
+Text Label 6100 3700 2    60   ~ 0
+SW4
+Text Label 6100 3900 2    60   ~ 0
+SW5
+Text Label 6100 4100 2    60   ~ 0
+SW6
+Text Label 7000 3700 2    60   ~ 0
+SW4
+Text Label 7000 3900 2    60   ~ 0
+SW5
+Text Label 7000 4100 2    60   ~ 0
+SW6
+Text Label 7900 3700 2    60   ~ 0
+SW4
+Text Label 7900 3900 2    60   ~ 0
+SW5
+Text Label 7900 4100 2    60   ~ 0
+SW6
+Text Label 8800 3700 2    60   ~ 0
+SW4
+Text Label 8800 3900 2    60   ~ 0
+SW5
+Text Label 8800 4100 2    60   ~ 0
+SW6
+Text Label 9700 3700 2    60   ~ 0
+SW4
+Text Label 9700 3900 2    60   ~ 0
+SW5
+Text Label 9700 4100 2    60   ~ 0
+SW6
+Text Label 10600 3700 2    60   ~ 0
+SW4
+Text Label 10600 3900 2    60   ~ 0
+SW5
+Text Label 10600 4100 2    60   ~ 0
+SW6
+Text Label 1600 4500 2    60   ~ 0
+SW7
+Text Label 1600 4700 2    60   ~ 0
+SW8
+Text Label 1600 4900 2    60   ~ 0
+SW9
+Text Label 4300 4500 2    60   ~ 0
+SW7
+Text Label 4300 4700 2    60   ~ 0
+SW8
+Text Label 4300 4900 2    60   ~ 0
+SW9
+Text Label 5200 4500 2    60   ~ 0
+SW7
+Text Label 5200 4700 2    60   ~ 0
+SW8
+Text Label 5200 4900 2    60   ~ 0
+SW9
+Text Label 6100 4500 2    60   ~ 0
+SW7
+Text Label 6100 4700 2    60   ~ 0
+SW8
+Text Label 6100 4900 2    60   ~ 0
+SW9
+Text Label 7000 4500 2    60   ~ 0
+SW7
+Text Label 7000 4700 2    60   ~ 0
+SW8
+Text Label 7000 4900 2    60   ~ 0
+SW9
+Text Label 7900 4500 2    60   ~ 0
+SW7
+Text Label 7900 4700 2    60   ~ 0
+SW8
+Text Label 7900 4900 2    60   ~ 0
+SW9
+Text Label 8800 4500 2    60   ~ 0
+SW7
+Text Label 8800 4700 2    60   ~ 0
+SW8
+Text Label 8800 4900 2    60   ~ 0
+SW9
+Text Label 9700 4500 2    60   ~ 0
+SW7
+Text Label 9700 4700 2    60   ~ 0
+SW8
+Text Label 9700 4900 2    60   ~ 0
+SW9
+Text Label 10600 4500 2    60   ~ 0
+SW7
+Text Label 10600 4700 2    60   ~ 0
+SW8
+Text Label 10600 4900 2    60   ~ 0
+SW9
+Text Label 2500 4500 2    60   ~ 0
+SW7
+Text Label 2500 4700 2    60   ~ 0
+SW8
+Text Label 2500 4900 2    60   ~ 0
+SW9
+Text Label 1600 5300 2    60   ~ 0
+SW10
+Text Label 1600 5500 2    60   ~ 0
+SW11
+Text Label 1600 5700 2    60   ~ 0
+SW12
+Text Label 2500 5300 2    60   ~ 0
+SW10
+Text Label 2500 5500 2    60   ~ 0
+SW11
+Text Label 2500 5700 2    60   ~ 0
+SW12
+Text Label 3400 5300 2    60   ~ 0
+SW10
+Text Label 3400 5500 2    60   ~ 0
+SW11
+Text Label 3400 5700 2    60   ~ 0
+SW12
+Text Label 4300 5300 2    60   ~ 0
+SW10
+Text Label 4300 5500 2    60   ~ 0
+SW11
+Text Label 4300 5700 2    60   ~ 0
+SW12
+Text Label 5700 5300 2    60   ~ 0
+SW10
+Text Label 5700 5500 2    60   ~ 0
+SW11
+Text Label 5700 5700 2    60   ~ 0
+SW12
+Text Label 7000 5300 2    60   ~ 0
+SW10
+Text Label 7000 5500 2    60   ~ 0
+SW11
+Text Label 7000 5700 2    60   ~ 0
+SW12
+Text Label 7900 5300 2    60   ~ 0
+SW10
+Text Label 7900 5500 2    60   ~ 0
+SW11
+Text Label 7900 5700 2    60   ~ 0
+SW12
+Text Label 8800 5300 2    60   ~ 0
+SW10
+Text Label 8800 5500 2    60   ~ 0
+SW11
+Text Label 8800 5700 2    60   ~ 0
+SW12
+Text Label 9700 5300 2    60   ~ 0
+SW10
+Text Label 9700 5500 2    60   ~ 0
+SW11
+Text Label 9700 5700 2    60   ~ 0
+SW12
+Text Label 10600 5300 2    60   ~ 0
+SW10
+Text Label 10600 5500 2    60   ~ 0
+SW11
+Text Label 10600 5700 2    60   ~ 0
+SW12
+Text Label 7400 4700 0    60   ~ 0
+CS4
+Text Label 3400 4500 2    60   ~ 0
+SW7
+Text Label 3400 4700 2    60   ~ 0
+SW8
+Text Label 3400 4900 2    60   ~ 0
+SW9
+Text Label 9200 5500 0    60   ~ 0
+CS6
+Text Label 10100 3100 0    60   ~ 0
+CS7
 $EndSCHEMATC
